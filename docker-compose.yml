@@ -1,0 +1,34 @@
+# Réplica completa: SQL Server 2019 + restauración del datamart + dashboard.
+#   cp .env.example .env   (cambie las contraseñas)   ->   docker compose up --build   ->   http://localhost:8050
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment: {ACCEPT_EULA: "Y", MSSQL_SA_PASSWORD: "${SA_PASSWORD}", MSSQL_PID: Developer}
+    mem_limit: 4g
+    ports: ["14330:1433"]          # para conectar con SSMS / Azure Data Studio / los scripts de bi/ y tests/
+    volumes: ["sqldata:/var/opt/mssql", "${BAK_HOST_DIR:-./data}:/bak:ro"]
+    healthcheck:
+      test: ["CMD", "bash", "-c", "exec 3<>/dev/tcp/127.0.0.1/1433"]
+      interval: 10s
+      retries: 30
+  init:                             # una sola vez; idempotente (nunca sobrescribe una base existente)
+    build: .
+    command: ["python", "/srv/deploy/init_db.py"]
+    environment:
+      MUSEOS_DB_HOST: db
+      MUSEOS_DB_PORT: "1433"
+      MUSEOS_ADMIN_PASS: "${SA_PASSWORD}"
+      DASHLY_RO_PASSWORD: "${DASHLY_RO_PASSWORD}"
+      BAK_DIR: /bak
+    volumes: ["${BAK_HOST_DIR:-./data}:/bak:ro"]
+    depends_on: {db: {condition: service_healthy}}
+  app:
+    build: .
+    ports: ["8050:8050"]
+    environment:
+      MUSEOS_DB_HOST: db
+      MUSEOS_DB_PORT: "1433"
+      MUSEOS_DB_PASS: "${DASHLY_RO_PASSWORD}"
+    depends_on: {init: {condition: service_completed_successfully}}
+volumes:
+  sqldata:

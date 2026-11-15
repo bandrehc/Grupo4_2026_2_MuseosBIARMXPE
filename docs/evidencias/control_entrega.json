@@ -1,0 +1,110 @@
+{
+  "estado": "SQL_VERIFICADO",
+  "utc": "2026-11-15T02:40:02.024001+00:00",
+  "checks": {
+    "conteos": true,
+    "dimensiones_minimo_8": true,
+    "reconciliacion": true,
+    "decisiones_no_huerfanas": true,
+    "ratings_null": true,
+    "duplicados_resena": true,
+    "duplicados_puente": true,
+    "multitopico": true,
+    "huérfanos_puente": true
+  },
+  "results": {
+    "conteos": [
+      {
+        "resenas": 1143877,
+        "puente": 233556,
+        "reputaciones": 6286,
+        "dimensiones": 10
+      }
+    ],
+    "control_bi": [
+      {
+        "resenas_datamart": 1143877,
+        "resenas_excluidas": 47833,
+        "resenas_bi": 1096044,
+        "menciones_datamart": 122082,
+        "menciones_excluidas": 3990,
+        "menciones_bi": 118092,
+        "menciones_bi_sent": 118092,
+        "resenas_texto_bi": 598502,
+        "resenas_texto_esperadas": 598502,
+        "excluidos_presentes_en_bi": 0,
+        "decisiones_huerfanas": 0,
+        "dif_resenas": 0,
+        "dif_menciones": 0,
+        "dif_menciones_sent": 0,
+        "dif_resenas_texto": 0,
+        "ok": 1
+      }
+    ],
+    "duplicados_resena": [
+      {
+        "n": 0
+      }
+    ],
+    "duplicados_puente": [
+      {
+        "n": 0
+      }
+    ],
+    "multitopico": [
+      {
+        "n": 0
+      }
+    ],
+    "rating_null": [
+      {
+        "n": 945
+      }
+    ],
+    "huérfanos_puente": [
+      {
+        "n": 0
+      }
+    ],
+    "cobertura": [
+      {
+        "pais": "Perú",
+        "resenas": 119621,
+        "con_texto": 59861,
+        "clasificados": 49869
+      },
+      {
+        "pais": "México",
+        "resenas": 541178,
+        "con_texto": 261313,
+        "clasificados": 227789
+      },
+      {
+        "pais": "Argentina",
+        "resenas": 435245,
+        "con_texto": 277328,
+        "clasificados": 249577
+      }
+    ],
+    "temas_habilitados": [
+      {
+        "pais": "Perú",
+        "menciones": 9876
+      },
+      {
+        "pais": "México",
+        "menciones": 53748
+      },
+      {
+        "pais": "Argentina",
+        "menciones": 54468
+      }
+    ],
+    "sin_fecha": [
+      {
+        "n": 945
+      }
+    ]
+  },
+  "aviso": "No valida semántica humana, integridad completa del motor ni pruebas UI. No se modificó la base."
+}

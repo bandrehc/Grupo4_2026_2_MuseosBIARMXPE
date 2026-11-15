@@ -1,0 +1,4 @@
+# Dependencias ligeras usadas por estas regresiones; no instalan modelos NLP.
+numpy==2.3.5
+pandas==3.0.1
+threadpoolctl==3.7.0

@@ -1,0 +1,65 @@
+{
+  "ensayo_rollback": false,
+  "resultado": {
+    "estado": "YA_APLICADA",
+    "version": "revision-ia-20261023-v1",
+    "filas_actualizadas": 0
+  },
+  "validacion": {
+    "estado": "OK",
+    "catalogo_versionado": 41,
+    "muestras_topicos": 488,
+    "muestras_sentimiento": 54,
+    "etiquetas_y_32_idiomas": "OK",
+    "origen_raw_preservado": true,
+    "sin_validacion_humana_simulada": true
+  },
+  "antes": {
+    "dim_antiguedad_resena": 5,
+    "dim_dimension_latente": 42,
+    "dim_extension_resena": 6,
+    "dim_geografia": 2197,
+    "dim_idioma": 32,
+    "dim_lugar": 6539,
+    "dim_perfil_autor": 5,
+    "dim_presencia_digital": 5,
+    "dim_rating": 6,
+    "dim_sentimiento": 5,
+    "dim_tiempo": 365,
+    "fact_reputacion_lugar": 6286,
+    "fact_resena": 1143877,
+    "fact_resena_dimension": 233556
+  },
+  "despues": {
+    "dim_antiguedad_resena": 5,
+    "dim_dimension_latente": 42,
+    "dim_extension_resena": 6,
+    "dim_geografia": 2197,
+    "dim_idioma": 32,
+    "dim_lugar": 6539,
+    "dim_perfil_autor": 5,
+    "dim_presencia_digital": 5,
+    "dim_rating": 6,
+    "dim_sentimiento": 5,
+    "dim_tiempo": 365,
+    "fact_reputacion_lugar": 6286,
+    "fact_resena": 1143877,
+    "fact_resena_dimension": 233556
+  },
+  "delta": {
+    "dim_antiguedad_resena": 0,
+    "dim_dimension_latente": 0,
+    "dim_extension_resena": 0,
+    "dim_geografia": 0,
+    "dim_idioma": 0,
+    "dim_lugar": 0,
+    "dim_perfil_autor": 0,
+    "dim_presencia_digital": 0,
+    "dim_rating": 0,
+    "dim_sentimiento": 0,
+    "dim_tiempo": 0,
+    "fact_reputacion_lugar": 0,
+    "fact_resena": 0,
+    "fact_resena_dimension": 0
+  }
+}

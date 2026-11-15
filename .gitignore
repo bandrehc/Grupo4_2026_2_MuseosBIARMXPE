@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.bak
+evidencias_locales/
+.vscode/
+.idea/

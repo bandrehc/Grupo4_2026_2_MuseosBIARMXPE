@@ -1,0 +1,10 @@
+Respaldo del datamart (MuseosLatam_Datamart_depurado_20261108.bak, 252 MB)
+
+Carpeta con el respaldo:
+https://drive.google.com/drive/folders/1adbNCb4zWLOZLP1Wlu1h07ZHCRIU6dsh?usp=sharing
+
+También disponible en el Release v1.0 del repositorio:
+https://github.com/bandrehc/museos-latam-bi/releases/tag/v1.0
+
+SHA-256 (para verificar la descarga):
+5392c86ac7efa205a5b6a714ecd947ccacdf6dc9499726816224ce6e6a392334

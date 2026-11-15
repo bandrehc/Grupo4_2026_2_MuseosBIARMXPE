@@ -1,0 +1,526 @@
+codigo_unidad,departamento,provincia,distrito,origen_departamento
+61730980B43357395590927,La Rioja,Arauco,,within_adm1_simplificado
+61730980B62269269094219,Buenos Aires,Tres Arroyos,,within_adm1_simplificado
+61730980B76568954927707,Jujuy,El Carmen,,within_adm1_simplificado
+61730980B99310691740446,Buenos Aires,Pinamar,,within_adm1_simplificado
+61730980B27788441407365,Buenos Aires,General Pinto,,within_adm1_simplificado
+61730980B57669558110084,Misiones,Montecarlo,,within_adm1_simplificado
+61730980B92703930088749,Buenos Aires,General Juan Madariaga,,within_adm1_simplificado
+61730980B20079308616386,Mendoza,Santa Rosa,,within_adm1_simplificado
+61730980B86190537601519,Buenos Aires,Necochea,,within_adm1_simplificado
+61730980B41979026536133,Buenos Aires,General Guido,,within_adm1_simplificado
+61730980B1305894445547,Buenos Aires,Pergamino,,within_adm1_simplificado
+61730980B63252687279730,Buenos Aires,José C. Paz,,within_adm1_simplificado
+61730980B13734740101485,Catamarca,Santa María,,within_adm1_simplificado
+61730980B98686515489678,Santiago del Estero,Choya,,within_adm1_simplificado
+61730980B26239176559323,Entre Ríos,Diamante,,within_adm1_simplificado
+61730980B33989982283720,Buenos Aires,Punta Indio,,within_adm1_simplificado
+61730980B58975143566446,Buenos Aires,Coronel Suárez,,within_adm1_simplificado
+61730980B36977394728144,La Rioja,Independencia,,within_adm1_simplificado
+61730980B1877190753616,La Rioja,General Ocampo,,within_adm1_simplificado
+61730980B62875315745131,Buenos Aires,Chascomús,,within_adm1_simplificado
+61730980B3490354735950,Buenos Aires,Salliqueló,,within_adm1_simplificado
+61730980B98253632785456,Santiago del Estero,Alberdi,,within_adm1_simplificado
+61730980B63550758975873,Salta,Molinos,,within_adm1_simplificado
+61730980B75694434489660,La Rioja,Chamical,,within_adm1_simplificado
+61730980B11552095323688,Entre Ríos,Paraná,,within_adm1_simplificado
+61730980B87066922657052,Buenos Aires,Bahía Blanca,,within_adm1_simplificado
+61730980B24308348826219,Mendoza,La Paz,,within_adm1_simplificado
+61730980B83409300845185,Buenos Aires,Saladillo,,within_adm1_simplificado
+61730980B18675393261940,Entre Ríos,Victoria,,within_adm1_simplificado
+61730980B34474057540122,Misiones,El Dorado,,within_adm1_simplificado
+61730980B64718886155143,San Luis,Gobernador Dupuy,,within_adm1_simplificado
+61730980B13616489731470,Buenos Aires,Tornquist,,within_adm1_simplificado
+61730980B33740437048301,Buenos Aires,Villa Gesell,,within_adm1_simplificado
+61730980B49758081905530,Santiago del Estero,Ojo de agua,,within_adm1_simplificado
+61730980B1791021048372,Buenos Aires,San Cayetano,,within_adm1_simplificado
+61730980B12479001808037,Salta,La Viña,,within_adm1_simplificado
+61730980B55072056415049,Chaco,Tapenagá,,within_adm1_simplificado
+61730980B86135062505656,Buenos Aires,San Antonio de Areco,,within_adm1_simplificado
+61730980B20324539983987,Salta,San Carlos,,within_adm1_simplificado
+61730980B38910879035127,Salta,Cachi,,within_adm1_simplificado
+61730980B21366789082443,Buenos Aires,La Matanza,,within_adm1_simplificado
+61730980B69505463407693,Buenos Aires,Rauch,,within_adm1_simplificado
+61730980B71873263236869,Salta,Chicoana,,within_adm1_simplificado
+61730980B74641240637534,Buenos Aires,General Alvarado,,within_adm1_simplificado
+61730980B51981995924731,Entre Ríos,Islas del Ibicuy,,within_adm1_simplificado
+61730980B95090625918861,Buenos Aires,Tandil,,within_adm1_simplificado
+61730980B23463184159568,Entre Ríos,Concordia,,within_adm1_simplificado
+61730980B8978802386403,Buenos Aires,Berazategui,,within_adm1_simplificado
+61730980B57744536697119,Salta,General Güemes,,within_adm1_simplificado
+61730980B14767108287685,Buenos Aires,Vicente López,,within_adm1_simplificado
+61730980B59094124790483,Buenos Aires,Moreno,,within_adm1_simplificado
+61730980B50234098483318,Buenos Aires,Lezama,,within_adm1_simplificado
+61730980B22124593999918,Salta,Metán,,within_adm1_simplificado
+61730980B5067037374501,Buenos Aires,La Costa,,within_adm1_simplificado
+61730980B14792793371960,Buenos Aires,General Paz,,within_adm1_simplificado
+61730980B45625196067006,Buenos Aires,Coronel Dorrego,,within_adm1_simplificado
+61730980B35069548895139,Buenos Aires,Coronel Pringles,,within_adm1_simplificado
+61730980B83932941288797,Buenos Aires,Rojas,,within_adm1_simplificado
+61730980B20857642636660,Buenos Aires,Maipú,,within_adm1_simplificado
+61730980B51096129050346,Buenos Aires,Magdalena,,within_adm1_simplificado
+61730980B11587085710178,Entre Ríos,Uruguay,,within_adm1_simplificado
+61730980B28367878314015,Santiago del Estero,General Taboada,,within_adm1_simplificado
+61730980B99537515777431,Buenos Aires,General Lavalle,,within_adm1_simplificado
+61730980B30127630418266,Buenos Aires,General Pueyrredón,,within_adm1_simplificado
+61730980B93024153750101,Chaco,Presidencia de la Plaza,,within_adm1_simplificado
+61730980B45570002459681,Entre Ríos,Gualeguaychú,,within_adm1_simplificado
+61730980B59817068959156,Buenos Aires,Adolfo Gonzáles Chaves,,within_adm1_simplificado
+61730980B64393727529638,Entre Ríos,Federal,,within_adm1_simplificado
+61730980B37602961907031,Buenos Aires,Tigre,,within_adm1_simplificado
+61730980B60915850555314,Chaco,Quitilipi,,within_adm1_simplificado
+61730980B31258778220086,Buenos Aires,Escobar,,within_adm1_simplificado
+61730980B80807938720133,Chaco,O'Higgins,,within_adm1_simplificado
+61730980B19837134975286,Santiago del Estero,Juan F. Ibarra,,within_adm1_simplificado
+61730980B33948495129875,Buenos Aires,Las Flores,,within_adm1_simplificado
+61730980B42888218741442,Mendoza,Rivadavia,,within_adm1_simplificado
+61730980B21057051979490,Santiago del Estero,Rivadavia,,within_adm1_simplificado
+61730980B58883686199673,Buenos Aires,Mar Chiquita,,within_adm1_simplificado
+61730980B52662416903271,Buenos Aires,Carlos Casares,,within_adm1_simplificado
+61730980B54017945662210,Chaco,Independencia,,within_adm1_simplificado
+61730980B63706771284544,La Pampa,Rancul,,within_adm1_simplificado
+61730980B64076546006472,La Rioja,General Juan F.Quiroga,,within_adm1_simplificado
+61730980B79787842894443,Corrientes,Santo Tomé,,within_adm1_simplificado
+61730980B48415799275237,Chubut,Gaiman,,within_adm1_simplificado
+61730980B69414745646580,Buenos Aires,Puán,,within_adm1_simplificado
+61730980B42310570317073,Buenos Aires,San Miguel,,within_adm1_simplificado
+61730980B72658617364075,Buenos Aires,Trenque Lauquen,,within_adm1_simplificado
+61730980B37938021690792,Buenos Aires,Guaminí,,within_adm1_simplificado
+61730980B72863725650935,Córdoba,Punilla,,within_adm1_simplificado
+61730980B7053808465014,Tierra del Fuego,Río Grande,,within_adm1_simplificado
+61730980B72303812021480,San Juan,Iglesia,,within_adm1_simplificado
+61730980B57963533011884,Mendoza,Guaymallén,,within_adm1_simplificado
+61730980B52691065899930,Neuquén,Catan Lil,,within_adm1_simplificado
+61730980B89935327549189,Buenos Aires,Ramallo,,within_adm1_simplificado
+61730980B58139732195743,Chubut,Tehuelches,,within_adm1_simplificado
+61730980B31104759078199,Ciudad Autónoma de Buenos Aires,Comuna 11,,within_adm1_simplificado
+61730980B98633333764723,Neuquén,Los Lagos,,within_adm1_simplificado
+61730980B17167733770144,Chaco,25 de Mayo,,within_adm1_simplificado
+61730980B94587935103567,Formosa,Ramón Lista,,within_adm1_simplificado
+61730980B51566599298610,Buenos Aires,Cañuelas,,within_adm1_simplificado
+61730980B48951068830804,Corrientes,Curuzú Cuatiá,,within_adm1_simplificado
+61730980B54493504343974,Corrientes,Ituzaingó,,within_adm1_simplificado
+61730980B7894377458839,Chaco,Sargento Cabral,,within_adm1_simplificado
+61730980B96811087093060,Jujuy,Tumbaya,,within_adm1_simplificado
+61730980B91207709402211,Córdoba,Colón,,within_adm1_simplificado
+61730980B4375422681595,Córdoba,San Justo,,within_adm1_simplificado
+61730980B73783012017414,Formosa,Laishi,,within_adm1_simplificado
+61730980B71301112531283,Buenos Aires,Esteban Echeverría,,within_adm1_simplificado
+61730980B99039131308999,Chaco,Libertad,,within_adm1_simplificado
+61730980B86901307553736,Catamarca,Tinogasta,,within_adm1_simplificado
+61730980B81524529409154,Córdoba,Juárez Celman,,within_adm1_simplificado
+61730980B58132582159451,Buenos Aires,Colón,,within_adm1_simplificado
+61730980B64159378499320,La Rioja,Capital,,within_adm1_simplificado
+61730980B94063956743041,Corrientes,Concepción,,within_adm1_simplificado
+61730980B15586340414503,Mendoza,Lavalle,,within_adm1_simplificado
+61730980B85851407891039,Chubut,Paso de los Indios,,within_adm1_simplificado
+61730980B67082136706980,Buenos Aires,Hurlingham,,within_adm1_simplificado
+61730980B47831130528254,Chubut,Río Senguer,,within_adm1_simplificado
+61730980B31839589787630,Entre Ríos,Gualeguay,,within_adm1_simplificado
+61730980B38086174579280,Jujuy,San Pedro,,within_adm1_simplificado
+61730980B9086176864437,La Pampa,Caleu Caleu,,within_adm1_simplificado
+61730980B40628819919033,Neuquén,Collón Curá,,within_adm1_simplificado
+61730980B32461814462498,Chaco,Maipú,,within_adm1_simplificado
+61730980B89830542201766,Santiago del Estero,Pelegrini,,within_adm1_simplificado
+61730980B72186775994784,Corrientes,Mburucuyá,,within_adm1_simplificado
+61730980B15780158540393,Corrientes,Saladas,,within_adm1_simplificado
+61730980B54882612512948,Buenos Aires,Carmen de Areco,,within_adm1_simplificado
+61730980B10920715294308,La Rioja,General Lamadrid,,within_adm1_simplificado
+61730980B17678477966583,Salta,General José de San Martín,,within_adm1_simplificado
+61730980B45978264735485,Mendoza,San Martín,,within_adm1_simplificado
+61730980B10036181744679,Tucumán,Graneros,,within_adm1_simplificado
+61730980B13427760820692,Chaco,9 de Julio,,within_adm1_simplificado
+61730980B69261173940199,Buenos Aires,Daireaux,,within_adm1_simplificado
+61730980B72104600250977,Formosa,Pirane,,within_adm1_simplificado
+61730980B38483237983856,Río Negro,Bariloche,,within_adm1_simplificado
+61730980B64755596751827,Corrientes,Paso de los Libres,,within_adm1_simplificado
+61730980B66266771841510,Chaco,Libertador General San Martín,,within_adm1_simplificado
+61730980B73839587139252,Corrientes,Empedrado,,within_adm1_simplificado
+61730980B95014527534109,Buenos Aires,Hipólito Yrigoyen,,within_adm1_simplificado
+61730980B10000603471831,Río Negro,General Roca,,within_adm1_simplificado
+61730980B12252554718289,Río Negro,Conesa,,within_adm1_simplificado
+61730980B49819801652443,Buenos Aires,General Arenales,,within_adm1_simplificado
+61730980B83273988840504,Neuquén,Minas,,within_adm1_simplificado
+61730980B55193733465089,San Juan,Pocito,,within_adm1_simplificado
+61730980B35724148843083,Buenos Aires,La Plata,,within_adm1_simplificado
+61730980B5115619218657,La Pampa,Limay Mahuida,,within_adm1_simplificado
+61730980B3479013569835,Corrientes,General Alvear,,within_adm1_simplificado
+61730980B1496247249680,Neuquén,Zapala,,within_adm1_simplificado
+61730980B4372559560876,Buenos Aires,Azul,,within_adm1_simplificado
+61730980B74102790629524,Neuquén,Aluminé,,within_adm1_simplificado
+61730980B41711157234352,Santa Fe,San Jerónimo,,within_adm1_simplificado
+61730980B62951780268980,Santa Cruz,Lago Buenos Aires,,within_adm1_simplificado
+61730980B40140971915743,Chubut,Biedma,,within_adm1_simplificado
+61730980B22681975457322,San Juan,25 de Mayo,,within_adm1_simplificado
+61730980B19911830788880,La Pampa,Conhelo,,within_adm1_simplificado
+61730980B93218501090462,Formosa,Pilagás,,within_adm1_simplificado
+61730980B32526789553525,Corrientes,San Martín,,within_adm1_simplificado
+61730980B57634400026456,Chaco,General Belgrano,,within_adm1_simplificado
+61730980B34566458401394,Buenos Aires,Arrecifes,,within_adm1_simplificado
+61730980B11219984208084,Buenos Aires,General Rodríguez,,within_adm1_simplificado
+61730980B47619048230809,Misiones,Guaraní,,within_adm1_simplificado
+61730980B52273662212744,Santa Fe,Las Colonias,,within_adm1_simplificado
+61730980B56219468048048,San Luis,Chacabuco,,within_adm1_simplificado
+61730980B4030066976433,Santiago del Estero,Guasayán,,within_adm1_simplificado
+61730980B47702997871145,Santiago del Estero,Avellaneda,,within_adm1_simplificado
+61730980B6490927359782,San Juan,Calingasta,,within_adm1_simplificado
+61730980B97852769949948,La Rioja,Castro Barros,,within_adm1_simplificado
+61730980B26762692885030,Chubut,Languiñeo,,within_adm1_simplificado
+61730980B15270173915808,Chaco,Fray Justo Santa María de Oro,,within_adm1_simplificado
+61730980B15488687390300,Salta,Capital,,within_adm1_simplificado
+61730980B31934399065102,Chaco,Almirante Brown,,within_adm1_simplificado
+61730980B95993881972660,Santa Fe,9 de Julio,,within_adm1_simplificado
+61730980B84051306954372,Salta,La Poma,,within_adm1_simplificado
+61730980B38611506941533,Córdoba,Tercero Arriba,,within_adm1_simplificado
+61730980B14565124860161,Entre Ríos,Tala,,within_adm1_simplificado
+61730980B60516348074924,Jujuy,Ledesma,,within_adm1_simplificado
+61730980B71031057558278,La Pampa,Atreuco,,within_adm1_simplificado
+61730980B18994779185278,San Juan,Rawson,,within_adm1_simplificado
+61730980B22210913388495,Corrientes,Mercedes,,within_adm1_simplificado
+61730980B21987921647817,Jujuy,Palpalá,,within_adm1_simplificado
+61730980B33007651807911,Santiago del Estero,Mitre,,within_adm1_simplificado
+61730980B27244915898287,Ciudad Autónoma de Buenos Aires,Comuna 9,,within_adm1_simplificado
+61730980B672443386534,Santa Fe,General Obligado,,within_adm1_simplificado
+61730980B491501502306,Ciudad Autónoma de Buenos Aires,Comuna 6,,within_adm1_simplificado
+61730980B17018817153702,Buenos Aires,Mercedes,,within_adm1_simplificado
+61730980B72501201061130,La Pampa,Chalileo,,within_adm1_simplificado
+61730980B68223475909099,Santa Fe,Caseros,,within_adm1_simplificado
+61730980B3191379670925,Santiago del Estero,Río Hondo,,within_adm1_simplificado
+61730980B24915383692166,Chaco,12 de Octubre,,within_adm1_simplificado
+61730980B91158656720381,La Rioja,Sanagasta,,within_adm1_simplificado
+61730980B37295099370503,San Luis,La Capital,,within_adm1_simplificado
+61730980B85651312060638,Santiago del Estero,Moreno,,within_adm1_simplificado
+61730980B68692027499582,Chaco,San Lorenzo,,within_adm1_simplificado
+61730980B74686542739453,Buenos Aires,9 de Julio,,within_adm1_simplificado
+61730980B61800814165729,Santa Fe,San Justo,,within_adm1_simplificado
+61730980B79277873614202,Buenos Aires,Rivadavia,,within_adm1_simplificado
+61730980B89234879698161,Misiones,Candelaria,,within_adm1_simplificado
+61730980B65792055556448,Buenos Aires,Tres Lomas,,within_adm1_simplificado
+61730980B13060120877983,Chaco,Bermejo,,within_adm1_simplificado
+61730980B26191328353907,Salta,Rosario de Lerma,,within_adm1_simplificado
+61730980B71498262551365,Córdoba,Río Seco,,within_adm1_simplificado
+61730980B73949498906302,San Juan,Santa Lucía,,within_adm1_simplificado
+61730980B28877560844945,Catamarca,Ancasti,,within_adm1_simplificado
+61730980B60632601419482,Buenos Aires,Luján,,within_adm1_simplificado
+61730980B84013532899060,Santiago del Estero,Jiménez,,within_adm1_simplificado
+61730980B75660067581001,Neuquén,Huiliches,,within_adm1_simplificado
+61730980B70788741625134,Córdoba,Río Cuarto,,within_adm1_simplificado
+61730980B46237487976912,Santa Fe,Garay,,within_adm1_simplificado
+61730980B34793654756209,Córdoba,Ischilín,,within_adm1_simplificado
+61730980B94998770553919,Corrientes,General Paz,,within_adm1_simplificado
+61730980B95848117097679,Río Negro,Pichi Mahuída,,within_adm1_simplificado
+61730980B6439123039884,Santa Fe,La Capital,,within_adm1_simplificado
+61730980B98199782535920,Córdoba,Tulumba,,within_adm1_simplificado
+61730980B53242872705838,Santiago del Estero,Robles,,within_adm1_simplificado
+61730980B64785063825959,Mendoza,Tunuyán,,within_adm1_simplificado
+61730980B83392374898421,Neuquén,Ñorquín,,within_adm1_simplificado
+61730980B80142303912096,Jujuy,Valle Grande,,within_adm1_simplificado
+61730980B23902943966550,Santa Fe,Rosario,,within_adm1_simplificado
+61730980B92536449887038,Ciudad Autónoma de Buenos Aires,Comuna 8,,within_adm1_simplificado
+61730980B67401199188792,Corrientes,San Roque,,within_adm1_simplificado
+61730980B95294752297782,Corrientes,Berón de Astrada,,within_adm1_simplificado
+61730980B39039474647755,La Pampa,Maracó,,within_adm1_simplificado
+61730980B87239881423217,San Luis,Belgrano,,within_adm1_simplificado
+61730980B33253419160429,Río Negro,Ñorquinco,,within_adm1_simplificado
+61730980B57262290665163,Jujuy,San Antonio,,within_adm1_simplificado
+61730980B55497812442102,Tucumán,Chicligasta,,within_adm1_simplificado
+61730980B49742365360774,Santiago del Estero,Figueroa,,within_adm1_simplificado
+61730980B46645672865610,Ciudad Autónoma de Buenos Aires,Comuna 13,,within_adm1_simplificado
+61730980B31085500015034,Buenos Aires,San Fernando,,within_adm1_simplificado
+61730980B86195124517763,Chubut,Cushamen,,within_adm1_simplificado
+61730980B35011682920753,Misiones,San Ignacio,,within_adm1_simplificado
+61730980B41128044473522,Buenos Aires,Pila,,within_adm1_simplificado
+61730980B60061782271910,Corrientes,San Miguel,,within_adm1_simplificado
+61730980B6428657658770,Santa Cruz,Río Chico,,within_adm1_simplificado
+61730980B72070825926911,Buenos Aires,Roque Pérez,,within_adm1_simplificado
+61730980B82313314600145,Buenos Aires,Chivilcoy,,within_adm1_simplificado
+61730980B4318709030653,Buenos Aires,Ezeiza,,within_adm1_simplificado
+61730980B65517483181137,Santa Fe,Constitución,,within_adm1_simplificado
+61730980B50411515207012,Santa Fe,San Cristobal,,within_adm1_simplificado
+61730980B75281068807854,Entre Ríos,Colón,,within_adm1_simplificado
+61730980B19531104090182,Mendoza,General Alvear,,within_adm1_simplificado
+61730980B16369231979992,Tucumán,Burruyacú,,within_adm1_simplificado
+61730980B6185383884221,Misiones,San Javier,,within_adm1_simplificado
+61730980B59721877076450,La Pampa,Curacó,,within_adm1_simplificado
+61730980B71777653725604,Mendoza,Malargüe,,within_adm1_simplificado
+61730980B96971314093631,Buenos Aires,Dolores,,within_adm1_simplificado
+61730980B62800099035851,Santa Fe,Iriondo,,within_adm1_simplificado
+61730980B78651805295457,San Juan,Albardón,,within_adm1_simplificado
+61730980B55835159827036,Córdoba,San Javier,,within_adm1_simplificado
+61730980B18005946349792,La Pampa,Lihuel Calel,,within_adm1_simplificado
+61730980B93674688207762,Buenos Aires,General La Madrid,,within_adm1_simplificado
+61730980B48511689100190,Catamarca,Poman,,within_adm1_simplificado
+61730980B8735430115634,Buenos Aires,Baradero,,within_adm1_simplificado
+61730980B20468593076410,Córdoba,Pocho,,within_adm1_simplificado
+61730980B85315219245745,Buenos Aires,Almirante Brown,,within_adm1_simplificado
+61730980B99739045741141,Santiago del Estero,San Martín,,within_adm1_simplificado
+61730980B15935899611470,Santa Fe,San Martín,,within_adm1_simplificado
+61730980B13889034691247,Tucumán,Tafí del Valle,,within_adm1_simplificado
+61730980B31698660486966,Salta,Cerrillos,,within_adm1_simplificado
+61730980B5870054171142,Chubut,Martires,,within_adm1_simplificado
+61730980B21399673280914,San Luis,Libertador General San Martín,,within_adm1_simplificado
+61730980B29008980854450,Corrientes,Lavalle,,within_adm1_simplificado
+61730980B39626183389698,San Luis,Coronel Pringles,,within_adm1_simplificado
+61730980B17134937162409,Buenos Aires,Lobos,,within_adm1_simplificado
+61730980B73651998783154,Buenos Aires,Navarro,,within_adm1_simplificado
+61730980B81007798348630,Catamarca,Capital,,within_adm1_simplificado
+61730980B30976551851614,Corrientes,Esquina,,within_adm1_simplificado
+61730980B26046188382184,Chaco,Comandante Fernández,,within_adm1_simplificado
+61730980B66875074034941,Corrientes,Bella Vista,,within_adm1_simplificado
+61730980B46916447207534,Córdoba,Calamuchita,,within_adm1_simplificado
+61730980B80741205900311,Entre Ríos,La Paz,,within_adm1_simplificado
+61730980B62856380670076,Entre Ríos,Feliciano,,within_adm1_simplificado
+61730980B88470206742087,Buenos Aires,Florencio Varela,,within_adm1_simplificado
+61730980B66206062383215,La Pampa,Capital,,within_adm1_simplificado
+61730980B58028591073526,Chubut,Gastre,,within_adm1_simplificado
+61730980B81698180684339,San Juan,Angaco,,within_adm1_simplificado
+61730980B40572574294935,Buenos Aires,Alberti,,within_adm1_simplificado
+61730980B56904104065194,Santa Cruz,Güer Aike,,within_adm1_simplificado
+61730980B41889863901757,Santiago del Estero,Quebrachos,,within_adm1_simplificado
+61730980B55098803042234,Mendoza,Tupungato,,within_adm1_simplificado
+61730980B46256753723149,Salta,Orán,,within_adm1_simplificado
+61730980B83170090610127,Buenos Aires,General Viamonte,,within_adm1_simplificado
+61730980B42812082725449,Buenos Aires,Olavarría,,within_adm1_simplificado
+61730980B41964155809664,Salta,Rosario de la Frontera,,within_adm1_simplificado
+61730980B27859754831465,Buenos Aires,Leandro N. Alem,,within_adm1_simplificado
+61730980B25026306557945,La Rioja,Rosario Vera Peñaloza,,within_adm1_simplificado
+61730980B82567739160952,Buenos Aires,Lanús,,within_adm1_simplificado
+61730980B90079701589370,Ciudad Autónoma de Buenos Aires,Comuna 15,,within_adm1_simplificado
+61730980B22460334108875,La Rioja,Coronel Felipe Varela,,within_adm1_simplificado
+61730980B25522786884862,Chaco,General Güemes,,within_adm1_simplificado
+61730980B79833488690103,Tucumán,Simoca,,within_adm1_simplificado
+61730980B62302984984112,Catamarca,Paclin,,within_adm1_simplificado
+61730980B43723065760012,La Rioja,General Belgrano,,within_adm1_simplificado
+61730980B49644503791094,Santa Fe,Castellanos,,within_adm1_simplificado
+61730980B88678124443771,Buenos Aires,Tres de Febrero,,within_adm1_simplificado
+61730980B51340579014160,Buenos Aires,San Isidro,,within_adm1_simplificado
+61730980B8317426780894,Tucumán,Capital,,within_adm1_simplificado
+61730980B10302759212435,Chaco,Chacabuco,,within_adm1_simplificado
+61730980B96499416001790,Ciudad Autónoma de Buenos Aires,Comuna 7,,within_adm1_simplificado
+61730980B58440268064680,Chubut,Telsen,,within_adm1_simplificado
+61730980B22683842441482,Chaco,1ro. de Mayo,,within_adm1_simplificado
+61730980B21173322628341,Salta,La Candelaria,,within_adm1_simplificado
+61730980B47967614400586,La Rioja,San Blas de los Sauces,,within_adm1_simplificado
+61730980B80423249669200,Río Negro,9 de Julio,,within_adm1_simplificado
+61730980B51205763692060,Misiones,San Pedro,,within_adm1_simplificado
+61730980B18829369395752,Mendoza,Maipú,,within_adm1_simplificado
+61730980B98672472309924,La Pampa,Chical Có,,within_adm1_simplificado
+61730980B97946268235834,Buenos Aires,San Vicente,,within_adm1_simplificado
+61730980B86021730445369,Catamarca,Fray Mamerto Esquiú,,within_adm1_simplificado
+61730980B51540012847440,Misiones,Libertador General San Martín,,within_adm1_simplificado
+61730980B95988601788876,Río Negro,Adolfo Alsina,,within_adm1_simplificado
+61730980B13530253245747,Córdoba,Río Segundo,,within_adm1_simplificado
+61730980B55817879292044,Formosa,Bermejo,,within_adm1_simplificado
+61730980B94999737100466,Catamarca,Ambato,,within_adm1_simplificado
+61730980B95866867056524,Santiago del Estero,Salavina,,within_adm1_simplificado
+61730980B42121604183922,Mendoza,San Rafael,,within_adm1_simplificado
+61730980B51244903644877,Chubut,Escalante,,within_adm1_simplificado
+61730980B94822321270328,Mendoza,San Carlos,,within_adm1_simplificado
+61730980B4652577007654,Santa Fe,Belgrano,,within_adm1_simplificado
+61730980B89820972090318,Buenos Aires,Merlo,,within_adm1_simplificado
+61730980B19808130857277,Corrientes,San Cosme,,within_adm1_simplificado
+61730980B73101966705720,Santiago del Estero,Aguirre,,within_adm1_simplificado
+61730980B17356077685479,Tucumán,Lules,,within_adm1_simplificado
+61730980B82324044769491,Neuquén,Picún Leufú,,within_adm1_simplificado
+61730980B92024748366562,Catamarca,Andalgalá,,within_adm1_simplificado
+61730980B49626425367328,Catamarca,Antofagasta de la Sierra,,within_adm1_simplificado
+61730980B41665984357705,Jujuy,Susques,,within_adm1_simplificado
+61730980B42439794948491,Buenos Aires,San Andrés de Giles,,within_adm1_simplificado
+61730980B75519794586759,Santa Cruz,Deseado,,within_adm1_simplificado
+61730980B61518535175442,Buenos Aires,Malvinas Argentinas,,within_adm1_simplificado
+61730980B46018574851610,Buenos Aires,General San Martín,,within_adm1_simplificado
+61730980B9597683153912,Jujuy,Dr. Manuel Belgrano,,within_adm1_simplificado
+61730980B51204300351665,La Pampa,Quemú Quemú,,within_adm1_simplificado
+61730980B13025573352502,Buenos Aires,Castelli,,within_adm1_simplificado
+61730980B18376344054138,Chubut,Futaleufú,,within_adm1_simplificado
+61730980B33319795319357,Ciudad Autónoma de Buenos Aires,Comuna 1,,within_adm1_simplificado
+61730980B31889101729395,San Juan,Valle Fértil,,within_adm1_simplificado
+61730980B52467636009888,Formosa,Pilcomayo,,within_adm1_simplificado
+61730980B11409583290546,Ciudad Autónoma de Buenos Aires,Comuna 14,,within_adm1_simplificado
+61730980B79181726487815,Jujuy,Tilcara,,within_adm1_simplificado
+61730980B5073290621442,Buenos Aires,Ituzaingó,,within_adm1_simplificado
+61730980B21567181905347,Buenos Aires,Exaltación de la Cruz,,within_adm1_simplificado
+61730980B58719049483690,Buenos Aires,Brandsen,,within_adm1_simplificado
+61730980B60690576919105,La Pampa,Realicó,,within_adm1_simplificado
+61730980B31870245826613,La Rioja,General Angel V. Peñaloza,,within_adm1_simplificado
+61730980B92952848138392,Mendoza,Las Heras,,within_adm1_simplificado
+61730980B27264787590241,San Juan,Chimbas,,within_adm1_simplificado
+61730980B69433296380231,Santa Cruz,Lago Argentino,,within_adm1_simplificado
+61730980B62878855706265,Formosa,Formosa,,within_adm1_simplificado
+61730980B73790224663832,Formosa,Patiño,,within_adm1_simplificado
+61730980B74223418294329,La Pampa,Hucal,,within_adm1_simplificado
+61730980B62858565899892,Catamarca,Santa Rosa,,within_adm1_simplificado
+61730980B56418772605079,Córdoba,Totoral,,within_adm1_simplificado
+61730980B78285538688755,San Juan,San Martín,,within_adm1_simplificado
+61730980B90561116594730,San Juan,Rivadavia,,within_adm1_simplificado
+61730980B75559747618877,Jujuy,Cochinoca,,within_adm1_simplificado
+61730980B79261334873375,Río Negro,Valcheta,,within_adm1_simplificado
+61730980B28261021809980,Santiago del Estero,Silípica,,within_adm1_simplificado
+61730980B46716169011508,San Juan,Ullum,,within_adm1_simplificado
+61730980B38131446935101,Córdoba,General San Martín,,within_adm1_simplificado
+61730980B17361655515044,Buenos Aires,25 de Mayo,,within_adm1_simplificado
+61730980B30095926529222,Río Negro,Avellaneda,,within_adm1_simplificado
+61730980B44273379495612,Buenos Aires,Laprida,,within_adm1_simplificado
+61730980B84345100673034,San Juan,Caucete,,within_adm1_simplificado
+61730980B96971006202376,Buenos Aires,Benito Juárez,,within_adm1_simplificado
+61730980B52932124932957,Neuquén,Loncopué,,within_adm1_simplificado
+61730980B32203515925344,Tucumán,Cruz Alta,,within_adm1_simplificado
+61730980B72595291642381,San Luis,General Pedernera,,within_adm1_simplificado
+61730980B38115144575329,Santiago del Estero,Atamisqui,,within_adm1_simplificado
+61730980B26508052382857,Ciudad Autónoma de Buenos Aires,Comuna 2,,within_adm1_simplificado
+61730980B8313439795489,Chaco,San Fernando,,within_adm1_simplificado
+61730980B39092532797168,San Luis,Ayacucho,,within_adm1_simplificado
+61730980B38803740288067,La Pampa,Utracán,,within_adm1_simplificado
+61730980B30318397352263,Buenos Aires,Morón,,within_adm1_simplificado
+61730980B9994568619241,Corrientes,Sauce,,within_adm1_simplificado
+61730980B81782209111955,Chaco,2 de Abril,,within_adm1_simplificado
+61730980B2158029988508,Tucumán,Monteros,,within_adm1_simplificado
+61730980B98128397219365,Ciudad Autónoma de Buenos Aires,Comuna 5,,within_adm1_simplificado
+61730980B70981491758335,Buenos Aires,Junín,,within_adm1_simplificado
+61730980B76391862557900,Entre Ríos,Villaguay,,within_adm1_simplificado
+61730980B83498212495983,Entre Ríos,Federación,,within_adm1_simplificado
+61730980B90105410435104,Catamarca,Capayán,,within_adm1_simplificado
+61730980B3825468035519,Córdoba,Marcos Juárez,,within_adm1_simplificado
+61730980B77291084066522,Tucumán,Tafí Viejo,,within_adm1_simplificado
+61730980B65942785311638,Córdoba,General Roca,,within_adm1_simplificado
+61730980B27944530838107,Córdoba,Minas,,within_adm1_simplificado
+61730980B44188734520902,Santiago del Estero,Sarmiento,,within_adm1_simplificado
+61730980B99393843695309,Buenos Aires,San Nicolás,,within_adm1_simplificado
+61730980B48775712926369,Salta,La Caldera,,within_adm1_simplificado
+61730980B62992861219638,Salta,Santa Victoria,,within_adm1_simplificado
+61730980B85751419294070,Neuquén,Chos Malal,,within_adm1_simplificado
+61730980B39164148007065,Neuquén,Confluencia,,within_adm1_simplificado
+61730980B9884818603028,La Pampa,Guatraché,,within_adm1_simplificado
+61730980B1153371895886,La Pampa,Catriló,,within_adm1_simplificado
+61730980B17407958230561,Jujuy,Yaví,,within_adm1_simplificado
+61730980B72419299069197,Corrientes,Capital,,within_adm1_simplificado
+61730980B41536985277959,La Pampa,Puelén,,within_adm1_simplificado
+61730980B18182396698532,Santa Fe,San Lorenzo,,within_adm1_simplificado
+61730980B1211136539314,Mendoza,Luján de Cuyo,,within_adm1_simplificado
+61730980B98032525509739,Tucumán,Trancas,,within_adm1_simplificado
+61730980B38020683731034,Santa Fe,Vera,,within_adm1_simplificado
+61730980B42347447507011,Jujuy,Humahuaca,,within_adm1_simplificado
+61730980B2044576725385,Tucumán,Famallá,,within_adm1_simplificado
+61730980B39033896534626,Ciudad Autónoma de Buenos Aires,Comuna 3,,within_adm1_simplificado
+61730980B45528536534389,Buenos Aires,Coronel de Marina L. Rosales,,within_adm1_simplificado
+61730980B89566951406384,Formosa,Matacos,,within_adm1_simplificado
+61730980B19099504402623,Río Negro,San Antonio,,within_adm1_simplificado
+61730980B86456825396626,Chubut,Rawson,,within_adm1_simplificado
+61730980B68751377972541,Buenos Aires,Ensenada,,within_adm1_simplificado
+61730980B97340635160564,Buenos Aires,Lincoln,,within_adm1_simplificado
+61730980B13568432968305,Santiago del Estero,Loreto,,within_adm1_simplificado
+61730980B11593916805025,Buenos Aires,Berisso,,within_adm1_simplificado
+61730980B18176537921134,Buenos Aires,Pilar,,within_adm1_simplificado
+61730980B17447660038504,La Pampa,Chapaleufú,,within_adm1_simplificado
+61730980B31238250662903,Córdoba,Unión,,within_adm1_simplificado
+61730980B71548208163547,Buenos Aires,Campana,,within_adm1_simplificado
+61730980B52535530003600,Buenos Aires,General Villegas,,within_adm1_simplificado
+61730980B26408179177195,La Pampa,Trenel,,within_adm1_simplificado
+61730980B33550812065578,Buenos Aires,General Belgrano,,within_adm1_simplificado
+61730980B23941823928589,Río Negro,25 de Mayo,,within_adm1_simplificado
+61730980B19433533444932,Catamarca,El Alto,,within_adm1_simplificado
+61730980B76052784863315,Corrientes,Itatí,,within_adm1_simplificado
+61730980B33030242655186,Buenos Aires,Pehuajó,,within_adm1_simplificado
+61730980B71875580954916,Santiago del Estero,Capital,,within_adm1_simplificado
+61730980B43835404707600,Neuquén,Picunches,,within_adm1_simplificado
+61730980B47006381015187,Misiones,General Manuel Belgrano,,within_adm1_simplificado
+61730980B23914757099295,Buenos Aires,Ayacucho,,within_adm1_simplificado
+61730980B2649832708573,Misiones,25 de Mayo,,within_adm1_simplificado
+61730980B71346119241334,Santiago del Estero,Banda,,within_adm1_simplificado
+61730980B88853023630124,Neuquén,Lacar,,within_adm1_simplificado
+61730980B83091517859764,Córdoba,Cruz del Eje,,within_adm1_simplificado
+61730980B76555431598408,Misiones,Apostoles,,within_adm1_simplificado
+61730980B85685003882590,Córdoba,Sobremonte,,within_adm1_simplificado
+61730980B53159304456053,La Rioja,General San Martín,,within_adm1_simplificado
+61730980B98918352953876,Catamarca,Belén,,within_adm1_simplificado
+61730980B27320368944921,Jujuy,Santa Catalina,,within_adm1_simplificado
+61730980B95365862986383,Mendoza,Junín,,within_adm1_simplificado
+61730980B82066929031844,Ciudad Autónoma de Buenos Aires,Comuna 4,,within_adm1_simplificado
+61730980B89470085473651,Chaco,General Donovan,,within_adm1_simplificado
+61730980B72509942222407,Buenos Aires,Adolfo Alsina,,within_adm1_simplificado
+61730980B32563213852789,Buenos Aires,Tapalqué,,within_adm1_simplificado
+61730980B79646305787935,Buenos Aires,Balcarce,,within_adm1_simplificado
+61730980B70528593712709,Santa Fe,San Javier,,within_adm1_simplificado
+61730980B66564977593672,Buenos Aires,Chacabuco,,within_adm1_simplificado
+61730980B85841660882492,San Juan,9 de julio,,within_adm1_simplificado
+61730980B4034945746834,Entre Ríos,San Salvador,,within_adm1_simplificado
+61730980B73249877879896,Salta,Anta,,within_adm1_simplificado
+61730980B68338717287929,Tucumán,Río Chico,,within_adm1_simplificado
+61730980B42057198063965,Catamarca,La Paz,,within_adm1_simplificado
+61730980B60081089408424,Santa Cruz,Magallanes,,within_adm1_simplificado
+61730980B26117971223788,Misiones,Cainguás,,within_adm1_simplificado
+61730980B32081384015227,Neuquén,Anelo,,within_adm1_simplificado
+61730980B79202279576530,Misiones,Leandro N. Alem,,within_adm1_simplificado
+61730980B41653998480199,Misiones,Concepción,,within_adm1_simplificado
+61730980B78785017489869,Entre Ríos,Nogoya,,within_adm1_simplificado
+61730980B94061248290097,San Juan,Jáchal,,within_adm1_simplificado
+61730980B65696881637259,Mendoza,Godoy Cruz,,within_adm1_simplificado
+61730980B59149978164820,Buenos Aires,Bolívar,,within_adm1_simplificado
+61730980B9171790116436,Corrientes,Goya,,within_adm1_simplificado
+61730980B55355191537575,Ciudad Autónoma de Buenos Aires,Comuna 10,,within_adm1_simplificado
+61730980B8942789897843,Salta,Guachipas,,within_adm1_simplificado
+61730980B85426679485259,Chubut,Florentino Ameghino,,within_adm1_simplificado
+61730980B57566902843096,Buenos Aires,General Las Heras,,within_adm1_simplificado
+61730980B42398597949751,Santiago del Estero,Copo,,within_adm1_simplificado
+61730980B2132713179088,La Pampa,Toay,,within_adm1_simplificado
+61730980B45550942809451,San Juan,Capital,,within_adm1_simplificado
+61730980B93860432283235,Buenos Aires,Monte,,within_adm1_simplificado
+61730980B37548441938699,Buenos Aires,Marcos Paz,,within_adm1_simplificado
+61730980B614313343840,Chaco,Mayor Luis J. Fontana,,within_adm1_simplificado
+61730980B63808307170695,Río Negro,Pilnaniyeu,,within_adm1_simplificado
+61730980B56387205995887,Buenos Aires,General Alvear,,within_adm1_simplificado
+61730980B44606052944654,Buenos Aires,Villarino,,within_adm1_simplificado
+61730980B11613530457142,Corrientes,Monte Caseros,,within_adm1_simplificado
+61730980B37720115941003,Jujuy,Rinconada,,within_adm1_simplificado
+61730980B26555197201604,Catamarca,Valle Viejo,,within_adm1_simplificado
+61730980B94012431772813,Santa Fe,General López,,within_adm1_simplificado
+61730980B21035116848731,La Rioja,Chilecito,,within_adm1_simplificado
+61730980B54162974925510,La Pampa,Loventué,,within_adm1_simplificado
+61730980B17981427769766,Buenos Aires,Bragado,,within_adm1_simplificado
+61730980B2987031825940,San Juan,Sarmiento,,within_adm1_simplificado
+61730980B95109119515520,Córdoba,Santa María,,within_adm1_simplificado
+61730980B17144703425543,Neuquén,Pehuenches,,within_adm1_simplificado
+61730980B91056584985438,Tucumán,Leales,,within_adm1_simplificado
+61730980B11086319733728,Córdoba,Capital,,within_adm1_simplificado
+61730980B87507155551581,Tierra del Fuego,Ushuaia,,within_adm1_simplificado
+61730980B76511587081285,Buenos Aires,Lobería,,within_adm1_simplificado
+61730980B70807838850882,Ciudad Autónoma de Buenos Aires,Comuna 12,,within_adm1_simplificado
+61730980B30289947598516,Misiones,Capital,,within_adm1_simplificado
+61730980B36020479947957,La Rioja,Vinchina,,within_adm1_simplificado
+61730980B51540343691170,Buenos Aires,Saavedra,,within_adm1_simplificado
+61730980B79956801813082,San Juan,Zonda,,within_adm1_simplificado
+61730980B24175536898784,Buenos Aires,Patagones,,within_adm1_simplificado
+61730980B48132302456703,Córdoba,San Alberto,,within_adm1_simplificado
+61730980B41851340526887,Buenos Aires,Pellegrini,,within_adm1_simplificado
+61730980B51809222363415,Buenos Aires,Capitán Sarmiento,,within_adm1_simplificado
+61730980B48361677573227,Buenos Aires,Tordillo,,within_adm1_simplificado
+61730980B497821979952,Buenos Aires,Avellaneda,,within_adm1_simplificado
+61730980B79245586725774,Salta,Rivadavia,,within_adm1_simplificado
+61730980B48665369642836,Buenos Aires,Monte Hermoso,,within_adm1_simplificado
+61730980B24902089769894,Santa Cruz,Corpen Aike,,within_adm1_simplificado
+61730980B70316540328463,Mendoza,Capital,,within_adm1_simplificado
+61730980B59546711189461,Córdoba,Presidente Roque Sáenz Peña,,within_adm1_simplificado
+61730980B6528535412911,Buenos Aires,Quilmes,,within_adm1_simplificado
+61730980B44143601291146,Chubut,Sarmiento,,within_adm1_simplificado
+61730980B39719981669742,Buenos Aires,Zárate,,within_adm1_simplificado
+61730980B96224963686238,Salta,Los Andes,,within_adm1_simplificado
+61730980B47284560228773,Santiago del Estero,Belgrano,,within_adm1_simplificado
+61730980B21961764082426,Misiones,Iguazú,,within_adm1_simplificado
+61730980B8590137946072,Salta,Cafayate,,within_adm1_simplificado
+61730980B89547050111737,La Rioja,Famatina,,within_adm1_simplificado
+61730980B10668196443859,Tucumán,Yerba Buena,,within_adm1_simplificado
+61730980B69896756381715,Buenos Aires,Florentino Ameghino,,within_adm1_simplificado
+61730980B90515114322880,Río Negro,El Cuy,,within_adm1_simplificado
+61730980B23857431741611,Buenos Aires,Presidente Perón,,within_adm1_simplificado
+61730980B58255414710643,Buenos Aires,Lomas de Zamora,,within_adm1_simplificado
+61730980B61876831945092,Buenos Aires,Carlos Tejedor,,within_adm1_simplificado
+61730980B81092064808968,Tucumán,La Cocha,,within_adm1_simplificado
+61730980B52469297457294,Córdoba,Río Primero,,within_adm1_simplificado
+61730980B41869558035533,Misiones,Oberá,,within_adm1_simplificado
+61730980B92635702663446,San Luis,Junín,,within_adm1_simplificado
+61730980B38664240857483,Tucumán,Juan B. Alberdi,,within_adm1_simplificado
+61730980B44314370056359,Buenos Aires,San Pedro,,within_adm1_simplificado
+61730980B58435423783603,Salta,Iruya,,within_adm1_simplificado
+61730980B61196907081286,Jujuy,Santa Bárbara,,within_adm1_simplificado
+61730980B93203446510136,Buenos Aires,Suipacha,,within_adm1_simplificado
+61730980B64997833188567,Buenos Aires,Salto,,within_adm1_simplificado

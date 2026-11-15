@@ -1,0 +1,13 @@
+# Entorno validado en Windows para discovery, geografía y scraping.
+pandas==3.0.3
+pyarrow==24.0.0
+geopandas==1.1.4
+tqdm==4.70.0
+selenium==4.48.0
+aiohttp==3.14.3
+lxml==6.1.1
+phonenumbers==9.0.38
+Brotli==1.2.0
+beautifulsoup4==4.12.3
+requests==2.32.0
+webdriver-manager==3.5.2

@@ -1,0 +1,235 @@
+{
+  "estado": "EJECUTADO_Y_VERIFICADO",
+  "version": "latam-ampliacion-2026-10-22-v1",
+  "servidor": [
+    "<instancia local>",
+    "Microsoft SQL Server 2019 (RTM-GDR) (KB5128495) - 15.0.2200.2 (X64) \n\tSep 26 2026 20:12:55 \n\tCopyright (C) 2019 Microsoft Corporation\n\tDeveloper Edition (64-bit) on Windows 10 Home 10.0 <X64> (Build 19045: )\n",
+    "Developer Edition (64-bit)",
+    1
+  ],
+  "segundos": 968.4722182750702,
+  "primera": {
+    "conteos": {
+      "dim_antiguedad_resena": 5,
+      "dim_dimension_latente": 42,
+      "dim_extension_resena": 6,
+      "dim_geografia": 2197,
+      "dim_idioma": 32,
+      "dim_lugar": 6539,
+      "dim_perfil_autor": 5,
+      "dim_presencia_digital": 5,
+      "dim_rating": 6,
+      "dim_sentimiento": 5,
+      "dim_tiempo": 365,
+      "fact_reputacion_lugar": 6286,
+      "fact_resena": 1143877,
+      "fact_resena_dimension": 233556
+    },
+    "pruebas": {
+      "resena_faltantes": 0,
+      "resena_sobrantes": 0,
+      "lugar_faltantes": 0,
+      "lugar_sobrantes": 0,
+      "catalogo_faltantes": 0,
+      "catalogo_sobrantes": 0,
+      "puente_faltantes": 0,
+      "puente_sobrantes": 0,
+      "reseñas_duplicadas": 0,
+      "geografia_inconsistente": 0,
+      "periodo_precision": 0,
+      "mes_trimestre_inventado": 0,
+      "coordenadas_fuera_rango": 0,
+      "reputacion_fecha_inventada": 0,
+      "peso_no_uno": 0,
+      "restricciones_no_confiables": 0,
+      "FK_CHECK_reales": "OK",
+      "campos_hecho_diferentes": 0,
+      "reputacion_medidas_diferentes": 0
+    },
+    "pais": [
+      {
+        "codigo_pais": "AR",
+        "resenas": 461594,
+        "ratings_null": 710,
+        "suma_rating": 2077740,
+        "con_texto": 292344,
+        "suma_palabras": 5331296,
+        "min_rating": 1,
+        "max_rating": 5
+      },
+      {
+        "codigo_pais": "MX",
+        "resenas": 560328,
+        "ratings_null": 0,
+        "suma_rating": 2569857,
+        "con_texto": 270051,
+        "suma_palabras": 5045890,
+        "min_rating": 1,
+        "max_rating": 5
+      },
+      {
+        "codigo_pais": "PE",
+        "resenas": 121955,
+        "ratings_null": 235,
+        "suma_rating": 545814,
+        "con_texto": 60943,
+        "suma_palabras": 1113689,
+        "min_rating": 1,
+        "max_rating": 5
+      }
+    ],
+    "reputacion_esperada": 6286,
+    "origen": {
+      "catalogo": 41,
+      "lugar": 6538,
+      "puente": 233556,
+      "resena": 1143877
+    },
+    "roundtrip": {
+      "lugar": {
+        "rows": 6538,
+        "sha256_campos_sql_y_csv": "90483f81ba13fb8386e671638f1d3f85d058502450b0d12686fb449bff57b62a",
+        "estado": "OK"
+      },
+      "resena": {
+        "rows": 1143877,
+        "sha256_campos_sql_y_csv": "49e18d5f76665cd5422812ca51c2a9819a320b6ea352980fd946e3ccb92d4359",
+        "estado": "OK"
+      },
+      "catalogo": {
+        "rows": 41,
+        "sha256_campos_sql_y_csv": "8ccfe1832fb4465b4e74528c69150251d8bbb7f83b626e5460c13a53071d5ac5",
+        "estado": "OK"
+      },
+      "puente": {
+        "rows": 233556,
+        "sha256_campos_sql_y_csv": "13befb063819046d93fdde03da8807b3586f65eb8b9a9ef892b3bf2387f04d25",
+        "estado": "OK"
+      }
+    },
+    "bases": [
+      "MuseosLatam_Origen",
+      "MuseosLatam_Datamart"
+    ]
+  },
+  "segunda": {
+    "conteos": {
+      "dim_antiguedad_resena": 5,
+      "dim_dimension_latente": 42,
+      "dim_extension_resena": 6,
+      "dim_geografia": 2197,
+      "dim_idioma": 32,
+      "dim_lugar": 6539,
+      "dim_perfil_autor": 5,
+      "dim_presencia_digital": 5,
+      "dim_rating": 6,
+      "dim_sentimiento": 5,
+      "dim_tiempo": 365,
+      "fact_reputacion_lugar": 6286,
+      "fact_resena": 1143877,
+      "fact_resena_dimension": 233556
+    },
+    "pruebas": {
+      "resena_faltantes": 0,
+      "resena_sobrantes": 0,
+      "lugar_faltantes": 0,
+      "lugar_sobrantes": 0,
+      "catalogo_faltantes": 0,
+      "catalogo_sobrantes": 0,
+      "puente_faltantes": 0,
+      "puente_sobrantes": 0,
+      "reseñas_duplicadas": 0,
+      "geografia_inconsistente": 0,
+      "periodo_precision": 0,
+      "mes_trimestre_inventado": 0,
+      "coordenadas_fuera_rango": 0,
+      "reputacion_fecha_inventada": 0,
+      "peso_no_uno": 0,
+      "restricciones_no_confiables": 0,
+      "FK_CHECK_reales": "OK",
+      "campos_hecho_diferentes": 0,
+      "reputacion_medidas_diferentes": 0
+    },
+    "pais": [
+      {
+        "codigo_pais": "AR",
+        "resenas": 461594,
+        "ratings_null": 710,
+        "suma_rating": 2077740,
+        "con_texto": 292344,
+        "suma_palabras": 5331296,
+        "min_rating": 1,
+        "max_rating": 5
+      },
+      {
+        "codigo_pais": "MX",
+        "resenas": 560328,
+        "ratings_null": 0,
+        "suma_rating": 2569857,
+        "con_texto": 270051,
+        "suma_palabras": 5045890,
+        "min_rating": 1,
+        "max_rating": 5
+      },
+      {
+        "codigo_pais": "PE",
+        "resenas": 121955,
+        "ratings_null": 235,
+        "suma_rating": 545814,
+        "con_texto": 60943,
+        "suma_palabras": 1113689,
+        "min_rating": 1,
+        "max_rating": 5
+      }
+    ],
+    "reputacion_esperada": 6286,
+    "origen": {
+      "catalogo": 41,
+      "lugar": 6538,
+      "puente": 233556,
+      "resena": 1143877
+    },
+    "roundtrip": {
+      "lugar": {
+        "rows": 6538,
+        "sha256_campos_sql_y_csv": "90483f81ba13fb8386e671638f1d3f85d058502450b0d12686fb449bff57b62a",
+        "estado": "OK"
+      },
+      "resena": {
+        "rows": 1143877,
+        "sha256_campos_sql_y_csv": "49e18d5f76665cd5422812ca51c2a9819a320b6ea352980fd946e3ccb92d4359",
+        "estado": "OK"
+      },
+      "catalogo": {
+        "rows": 41,
+        "sha256_campos_sql_y_csv": "8ccfe1832fb4465b4e74528c69150251d8bbb7f83b626e5460c13a53071d5ac5",
+        "estado": "OK"
+      },
+      "puente": {
+        "rows": 233556,
+        "sha256_campos_sql_y_csv": "13befb063819046d93fdde03da8807b3586f65eb8b9a9ef892b3bf2387f04d25",
+        "estado": "OK"
+      }
+    },
+    "bases": [
+      "MuseosLatam_Origen",
+      "MuseosLatam_Datamart"
+    ]
+  },
+  "delta": {
+    "dim_antiguedad_resena": 0,
+    "dim_dimension_latente": 0,
+    "dim_extension_resena": 0,
+    "dim_geografia": 0,
+    "dim_idioma": 0,
+    "dim_lugar": 0,
+    "dim_perfil_autor": 0,
+    "dim_presencia_digital": 0,
+    "dim_rating": 0,
+    "dim_sentimiento": 0,
+    "dim_tiempo": 0,
+    "fact_reputacion_lugar": 0,
+    "fact_resena": 0,
+    "fact_resena_dimension": 0
+  }
+}

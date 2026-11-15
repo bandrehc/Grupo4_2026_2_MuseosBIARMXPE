@@ -1,0 +1,8 @@
+{
+  "estado": "OK",
+  "Unicode_largo_multilinea_comillas_vacios": "lectura exacta",
+  "claves_case_sensitive": "ABC y abc conservados",
+  "rollback_filas_y_checkpoint": "ambos cero",
+  "commit_filas_y_checkpoint": "ambos confirmados",
+  "ubicacion": "tablas temporales de sesión; eliminadas al cerrar conexión"
+}

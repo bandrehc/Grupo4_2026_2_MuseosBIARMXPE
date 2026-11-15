@@ -1,0 +1,85 @@
+# Entornos virtuales y caché de Python (reproducibles con requirements.txt)
+**/.venv/
+**/venv/
+**/__pycache__/
+*.pyc
+.runtime_fases12/
+.runtime_topicos/
+
+# Configuración de IDE y notebooks
+**/.idea/
+.ipynb_checkpoints/
+
+# Registros de ejecución
+logs/*.log
+logs/*.out
+repos_wrapper/gm-scraper.log
+repos/googlemaps-reviews-scraper-es/gm-scraper.log
+
+# Estados SQLite de las corridas de búsqueda y extracción (reconstruibles)
+logs/estado_busqueda.db
+logs/estado_busqueda_mx*.db
+logs/estado_busqueda_ar.db
+logs/estado_scraping_museos_mx*.db
+logs/estado_scraping_museos_argentina.db*
+logs/*_mexico_*.log
+logs/_backup_estado_*.db
+
+# Perfiles de Chrome con sesión de Google iniciada (cookies): nunca se versionan
+logs/chrome_perfil_google*/
+logs/test_sesion/
+
+# Salidas intermedias de búsqueda ya consumidas por la depuración (Etapa 3)
+data/lugares/_raw_incremental.csv
+data/lugares/_raw_incremental_mx*.csv
+data/lugares/_raw_incremental_ar.csv
+data/lugares/lugares_candidatos.csv
+data/lugares/lugares_candidatos.parquet
+data/lugares/lugares_candidatos_mexico.*
+data/lugares/lugares_identificados_mexico.*
+data/lugares/lugares_descartados_mexico.*
+data/lugares/piloto_etapa1/
+data/lugares/_backup_base_museos_*.csv
+
+# Reseñas que superan el límite de 100 MB de GitHub; se versionan como paquetes .csv.gz
+# en data/resenas/paquetes/ (repos_wrapper/empaquetar_resenas.py)
+data/resenas/comentarios_museos_crudo_mexico*.csv
+data/resenas/resenas_museos_consolidadas_mexico*.csv
+data/resenas/resenas_museos_consolidadas_mexico*.parquet
+data/resenas/resenas_museos_latam_consolidadas.*
+data/resenas/comentarios_museos_crudo_argentina.csv
+data/resenas/comentarios_museos_crudo-II.csv
+data/resenas/comentarios_museos_crudo-III.csv
+data/resenas/comentarios_museos_crudo-IV.csv
+data/resenas/comentarios_museos_consolidado.csv
+data/resenas/comentarios_museos_consolidado.parquet/
+data/resenas/_respaldos/
+data/resenas/_backup_*
+data/analisis/embeddings_resenas.npy
+
+# Salidas de ejemplo de los repositorios base
+repos/googlemaps-reviews-scraper-es/output/
+repos/mapScraper/data/output.csv
+
+# Corpus de preparación NLP, modelos y checkpoints locales
+data/preparacion_latam/
+logs/preparacion_latam/
+_archivo/
+
+# Respaldos de SQL Server y configuración privada
+*.bak
+*.mdf
+*.ndf
+*.ldf
+.env
+.env.*
+!.env.example
+connection.json
+**/pilot_samples.json
+**/stop.request
+**/process.lock
+**/supervisor.lock
+**/*.tmp
+
+# Insumo geográfico regenerable con prepare_mexico_geography.py
+data/referencia/mexico_divisiones.geojson

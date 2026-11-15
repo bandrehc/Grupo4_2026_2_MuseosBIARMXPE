@@ -1,0 +1,7 @@
+# La revisión semántica aplicada se identifica por el SHA-256 de estos bytes exactos.
+# No normalizar EOL al clonar en Windows/Linux: usar una nueva versión para editarla.
+carga_sql_server/revision_ia_v1/contenido.py -text
+carga_sql_server/revision_ia_v1/catalogo_curado.json -text
+carga_sql_server/revision_ia_v1/evaluaciones_topicos.json -text
+carga_sql_server/revision_ia_v1/evaluaciones_sentimiento.json -text
+carga_sql_server/revision_ia_v1/manifiesto_revision.json -text

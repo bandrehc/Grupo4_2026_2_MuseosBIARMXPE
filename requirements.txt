@@ -1,0 +1,8 @@
+# Versiones con las que se desarrolló y verificó el proyecto (Python 3.12 o 3.13)
+dash==4.5.0
+plotly==7.1.0
+pandas==3.0.2
+numpy==2.4.4
+pymssql==2.4.6
+openpyxl==3.1.5
+gunicorn==23.0.0

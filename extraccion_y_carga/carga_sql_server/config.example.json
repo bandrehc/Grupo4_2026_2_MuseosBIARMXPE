@@ -1,0 +1,5 @@
+{
+  "server": "lpc:localhost\\NOMBRE_INSTANCIA_LOCAL",
+  "user": "USUARIO_SQL_LOCAL",
+  "password": "REEMPLAZAR_EN_CONFIGURACION_PRIVADA"
+}

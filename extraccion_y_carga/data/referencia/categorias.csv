@@ -1,0 +1,16 @@
+palabra_clave,categoria_normalizada,termino_busqueda_plural,prioridad,notas
+museo,museo,museos,alta,Categoría núcleo del proyecto
+museo de sitio,museo,museos de sitio,alta,Museo asociado a un sitio arqueológico específico; se clasifica como museo pero puede solaparse con sitio_arqueologico
+pinacoteca,museo,pinacotecas,alta,Museo especializado en pintura
+sitio arqueológico,sitio_arqueologico,sitios arqueológicos,alta,Categoría núcleo del proyecto
+complejo arqueológico,sitio_arqueologico,complejos arqueológicos,alta,Sinónimo usual de sitio arqueológico en Perú
+zona arqueológica,sitio_arqueologico,zonas arqueológicas,alta,Denominación oficial usada por el Ministerio de Cultura (ZAM)
+huaca,sitio_arqueologico,huacas,alta,Término muy usado en Lima y costa norte
+fortaleza inca,sitio_arqueologico,fortalezas incas,alta,Incluye también pucarás y fortalezas prehispánicas en general
+ciudadela,sitio_arqueologico,ciudadelas,alta,"Ej. Chan Chan, Kuélap"
+santuario histórico,sitio_interes_historico,santuarios históricos,alta,Categoría de área protegida de SERNANP con valor histórico (ej. Machu Picchu)
+monumento histórico,sitio_interes_historico,monumentos históricos,alta,Categoría núcleo del proyecto
+casona histórica,sitio_interes_historico,casonas históricas,alta,Casonas coloniales/republicanas abiertas al público
+sitio de interés histórico,sitio_interes_historico,sitios de interés histórico,alta,Categoría núcleo del proyecto (frase genérica pedida explícitamente por el usuario)
+iglesia colonial,patrimonio_religioso,iglesias coloniales,opcional,"Incluida para no perder templos coloniales con valor patrimonial (ej. Iglesia de San Blas, Cusco); revisar si se quiere mantener o descartar para no diluir el foco"
+convento histórico,patrimonio_religioso,conventos históricos,opcional,"Ej. Convento de Santo Domingo, Convento de San Francisco; misma consideración que iglesia colonial"

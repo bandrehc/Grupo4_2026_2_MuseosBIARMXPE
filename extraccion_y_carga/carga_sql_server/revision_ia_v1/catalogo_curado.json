@@ -1,0 +1,1724 @@
+[
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T000",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Contenido de exposiciones y recorrido interactivo",
+    "etiqueta": "Colecciones y contenidos de la visita museal",
+    "descripcion": "Opiniones sobre el contenido de las colecciones, su organización, su interés educativo y la presentación del museo. Incluye: Objetos exhibidos, curaduría, materiales interpretativos y aprendizaje durante el recorrido. Exclusiones: No implica que toda reseña describa interacción tecnológica ni una exposición concreta.",
+    "criterios_inclusion": "Objetos exhibidos, curaduría, materiales interpretativos y aprendizaje durante el recorrido.",
+    "criterios_exclusion": "No implica que toda reseña describa interacción tecnológica ni una exposición concreta.",
+    "limitaciones": "La etiqueta anterior sobreestimaba el componente interactivo; aparecen recomendaciones generales y comentarios de limpieza o arquitectura.",
+    "palabras_clave": "interactivo; exposiciones; colonos; objetos; austro; tecnologia; piezas; instalaciones; morelos; ciencia",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 7,
+    "parciales_n": 5,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 0.5833333333333334,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 2,
+        "P": 2,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 2,
+        "P": 2,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T001",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Café y experiencia de cafetería",
+    "etiqueta": "Café, cafeterías y cultura cafetera",
+    "descripcion": "Experiencias vinculadas al café como bebida, producto cultural, proceso de elaboración o servicio de cafetería durante la visita. Incluye: Degustaciones de café, capuchino, molienda, tostado, compra de granos y atención de cafeterías. Exclusiones: Distinguir del cacao y chocolate cuando no se menciona café, y de la gastronomía sin relación cafetera.",
+    "criterios_inclusion": "Degustaciones de café, capuchino, molienda, tostado, compra de granos y atención de cafeterías.",
+    "criterios_exclusion": "Distinguir del cacao y chocolate cuando no se menciona café, y de la gastronomía sin relación cafetera.",
+    "limitaciones": "Se observó una reseña de cacao sin café; la asignación temática no garantiza pertinencia individual.",
+    "palabras_clave": "cafe; buen cafe; cafeteria; delicioso; proceso; ambiente; rico; granos; ambiente agradable; variedades",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 11,
+    "parciales_n": 0,
+    "no_coherentes_n": 1,
+    "soporte_muestral": 0.9166666666666666,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T002",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Gestión del acceso y taquilla",
+    "etiqueta": "Condiciones de ingreso, entradas y acceso",
+    "descripcion": "Comentarios sobre las condiciones prácticas para ingresar y recorrer el establecimiento, incluida la entrada gratuita o pagada. Incluye: Taquilla, disponibilidad de ingreso, costo de entrada, restricciones de bolsas o fotografías y facilidades de acceso. Exclusiones: No interpretar todo el grupo como queja de precios ni como medición de accesibilidad universal.",
+    "criterios_inclusion": "Taquilla, disponibilidad de ingreso, costo de entrada, restricciones de bolsas o fotografías y facilidades de acceso.",
+    "criterios_exclusion": "No interpretar todo el grupo como queja de precios ni como medición de accesibilidad universal.",
+    "limitaciones": "Se solapa con horarios y precios; algunas reseñas evalúan solamente la exposición y no el acceso.",
+    "palabras_clave": "cerrado; gratis; costo; estudiantes; estaba; descuento; 30; pagar; pesos; 25",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 9,
+    "parciales_n": 1,
+    "no_coherentes_n": 2,
+    "soporte_muestral": 0.75,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      },
+      "PE": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T003",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Memoria histórica y relatos del pasado",
+    "etiqueta": "Memoria histórica y conocimiento del pasado",
+    "descripcion": "Relatos sobre el aprendizaje de la historia, la evocación de recuerdos y la reflexión sobre el pasado a partir de la visita. Incluye: Historia local o nacional, acontecimientos, recuerdos personales y relatos históricos. Exclusiones: No atribuye un acontecimiento, país o período único a todo el grupo.",
+    "criterios_inclusion": "Historia local o nacional, acontecimientos, recuerdos personales y relatos históricos.",
+    "criterios_exclusion": "No atribuye un acontecimiento, país o período único a todo el grupo.",
+    "limitaciones": "Tema amplio que comparte contenido con patrimonio nacional, regional y casas de personajes.",
+    "palabras_clave": "pasado; conocer historia; recuerdos; mucha historia; lleno historia; historico; patria; historias; historia historia; gran personaje",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 12,
+    "parciales_n": 0,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 1.0,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T004",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Gastronomía regional y restaurantes",
+    "etiqueta": "Gastronomía y servicio de alimentos",
+    "descripcion": "Valoraciones de comida, postres, bebidas y atención de restaurantes o bares asociados a los lugares visitados. Incluye: Calidad y variedad de platos, desayunos, cenas, servicio de mesa y tiempos de atención. Exclusiones: No equiparar calidad gastronómica con la calidad de las colecciones del museo.",
+    "criterios_inclusion": "Calidad y variedad de platos, desayunos, cenas, servicio de mesa y tiempos de atención.",
+    "criterios_exclusion": "No equiparar calidad gastronómica con la calidad de las colecciones del museo.",
+    "limitaciones": "Existen comentarios de productos alimenticios sin experiencia museal y una valoración genérica sin referencia gastronómica.",
+    "palabras_clave": "comida; cuy; deliciosa; dulces; restaurante; sabor; comer; yucateca; platos; cochinita",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 10,
+    "parciales_n": 0,
+    "no_coherentes_n": 2,
+    "soporte_muestral": 0.8333333333333334,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 2,
+        "P": 0,
+        "N": 2
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T005",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Atención amable y dinámicas de visita",
+    "etiqueta": "Atención del personal y acompañamiento de la visita",
+    "descripcion": "Comentarios sobre el trato recibido, la disposición del personal, la organización y las explicaciones durante la visita. Incluye: Amabilidad, ayuda, claridad explicativa, organización de filas y acompañamiento. Exclusiones: Una valoración positiva genérica no demuestra que hubo buena atención.",
+    "criterios_inclusion": "Amabilidad, ayuda, claridad explicativa, organización de filas y acompañamiento.",
+    "criterios_exclusion": "Una valoración positiva genérica no demuestra que hubo buena atención.",
+    "limitaciones": "Parte de la muestra solo recomienda el lugar o describe su entorno, sin evaluar al personal.",
+    "palabras_clave": "divertido; amable atencion; explicacion atencion; amables; personal amable; atencion amables; atento; atencion amable; atencion atencion; entretenido",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 7,
+    "parciales_n": 3,
+    "no_coherentes_n": 2,
+    "soporte_muestral": 0.5833333333333334,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 2,
+        "P": 1,
+        "N": 1
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 1,
+        "P": 2,
+        "N": 1
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T006",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Horarios, cierres e información de acceso",
+    "etiqueta": "Horarios, cierres y disponibilidad de visita",
+    "descripcion": "Experiencias de apertura, cierre, reservas y disponibilidad efectiva de servicios de visita frente a la información anunciada. Incluye: Horarios incumplidos, remodelación, reservas, información web y ausencia de guías. Exclusiones: Distinguir quejas de atención sin relación con disponibilidad u horario.",
+    "criterios_inclusion": "Horarios incumplidos, remodelación, reservas, información web y ausencia de guías.",
+    "criterios_exclusion": "Distinguir quejas de atención sin relación con disponibilidad u horario.",
+    "limitaciones": "La información es una experiencia histórica de la reseña, no el horario vigente del establecimiento.",
+    "palabras_clave": "cerrado; horario; estaba cerrado; abierto; estaba; pagina; llegue; llegamos; web; mala",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 10,
+    "parciales_n": 2,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 0.8333333333333334,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T007",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Arquitectura y casas patrimoniales",
+    "etiqueta": "Arquitectura, edificios y casas patrimoniales",
+    "descripcion": "Apreciaciones del inmueble, su diseño arquitectónico, conservación material y valor de las casas o construcciones visitadas. Incluye: Decoración, viviendas históricas, templos, diseño, restauración y técnicas constructivas. Exclusiones: La mención de una casa cercana o del domicilio del autor no acredita interés arquitectónico.",
+    "criterios_inclusion": "Decoración, viviendas históricas, templos, diseño, restauración y técnicas constructivas.",
+    "criterios_exclusion": "La mención de una casa cercana o del domicilio del autor no acredita interés arquitectónico.",
+    "limitaciones": "Se observó una reseña que solo dice pasar por el lugar de camino a casa.",
+    "palabras_clave": "arquitectura; edificio; fernandini; historia casa; muebles; casa fernandini; barragan; hacienda; diseno; bella",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 11,
+    "parciales_n": 0,
+    "no_coherentes_n": 1,
+    "soporte_muestral": 0.9166666666666666,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T008",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Paisajes, vistas y entorno",
+    "etiqueta": "Entorno, vistas y atractivo general del lugar",
+    "descripcion": "Agrupación de opiniones sobre el entorno visual, el paisaje, las vistas y el atractivo general de un lugar. Incluye: Vistas urbanas o naturales, fotografías, paisaje y apreciaciones del entorno. Exclusiones: No tratar toda recomendación general o mención de un evento como valoración del paisaje.",
+    "criterios_inclusion": "Vistas urbanas o naturales, fotografías, paisaje y apreciaciones del entorno.",
+    "criterios_exclusion": "No tratar toda recomendación general o mención de un evento como valoración del paisaje.",
+    "limitaciones": "La muestra mezcla vistas explícitas con elogios genéricos y actividades culturales; uso temático restringido.",
+    "palabras_clave": "paisajes; montanas; paisaje; vistas; vista; valle; buen atencion; cerro; bello; precioso",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 4,
+    "parciales_n": 6,
+    "no_coherentes_n": 2,
+    "soporte_muestral": 0.3333333333333333,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 2,
+        "P": 1,
+        "N": 1
+      },
+      "MX": {
+        "n": 4,
+        "C": 0,
+        "P": 3,
+        "N": 1
+      },
+      "PE": {
+        "n": 4,
+        "C": 2,
+        "P": 2,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T009",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Fauna, conservación y trato a los animales",
+    "etiqueta": "Fauna, paleontología y cuidado de animales",
+    "descripcion": "Agrupación de experiencias de observación y aprendizaje sobre animales vivos, rescate de fauna y exhibiciones paleontológicas. Incluye: Bienestar animal, especies, tortugas, monos, dinosaurios, mamuts y colecciones relacionadas. Exclusiones: La presencia incidental de ganado en un acceso no describe una exhibición de fauna.",
+    "criterios_inclusion": "Bienestar animal, especies, tortugas, monos, dinosaurios, mamuts y colecciones relacionadas.",
+    "criterios_exclusion": "La presencia incidental de ganado en un acceso no describe una exhibición de fauna.",
+    "limitaciones": "Conviven animales vivos y fósiles; no usar el total como indicador exclusivo de bienestar animal.",
+    "palabras_clave": "animales; serpientes; dinosaurios; especies; monos; rescate; rescatados; animalitos; tortugas; animales estan",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 10,
+    "parciales_n": 0,
+    "no_coherentes_n": 2,
+    "soporte_muestral": 0.8333333333333334,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      },
+      "MX": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T010",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Museos pequeños y amplitud del recorrido",
+    "etiqueta": "Museos pequeños y extensión del recorrido",
+    "descripcion": "Opiniones sobre el tamaño del museo, la cantidad de salas o piezas y la duración percibida del recorrido. Incluye: Recorridos cortos, salas pequeñas, amplitud limitada y evaluación de una colección reducida. Exclusiones: Pequeño no significa malo; la ausencia de concurrencia no prueba tamaño reducido.",
+    "criterios_inclusion": "Recorridos cortos, salas pequeñas, amplitud limitada y evaluación de una colección reducida.",
+    "criterios_exclusion": "Pequeño no significa malo; la ausencia de concurrencia no prueba tamaño reducido.",
+    "limitaciones": "Incluye algunas opiniones generales sobre exposiciones o ubicación sin referencia al tamaño.",
+    "palabras_clave": "aunque pequeno; pequena; visitarlo pequeno; bastante pequeno; duendes; pequeno muestra; pequeno gran; cultural pequeno; pequena sala; pequeno puede",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 10,
+    "parciales_n": 1,
+    "no_coherentes_n": 1,
+    "soporte_muestral": 0.8333333333333334,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      },
+      "MX": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T011",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Exposiciones temporales y programación cultural",
+    "etiqueta": "Exposiciones y programación cultural",
+    "descripcion": "Experiencias de muestras, exposiciones, talleres, espectáculos y actividades culturales ofrecidas por el lugar. Incluye: Exhibiciones permanentes o temporales, eventos, talleres, presentaciones y programación. Exclusiones: No suponer temporalidad o renovación periódica si la reseña no lo indica.",
+    "criterios_inclusion": "Exhibiciones permanentes o temporales, eventos, talleres, presentaciones y programación.",
+    "criterios_exclusion": "No suponer temporalidad o renovación periódica si la reseña no lo indica.",
+    "limitaciones": "La etiqueta original era demasiado específica al afirmar exposiciones temporales; muchas reseñas solo mencionan una exposición.",
+    "palabras_clave": "exposiciones; temporales; tienen exposiciones; siempre tienen; exposiciones temporales; siempre exposiciones; exposiciones siempre; conferencias; exhibiciones; eventos",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 5,
+    "parciales_n": 7,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 0.4166666666666667,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 2,
+        "P": 2,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 0,
+        "P": 4,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T012",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Raíces culturales y patrimonio ancestral",
+    "etiqueta": "Identidad cultural e historia local",
+    "descripcion": "Agrupación de referencias a cultura, tradiciones, historia local y valoración del patrimonio de una comunidad. Incluye: Identidad regional, cultura local, raíces e historia de la comunidad. Exclusiones: No inferir origen ancestral o prehispánico de una referencia cultural genérica.",
+    "criterios_inclusion": "Identidad regional, cultura local, raíces e historia de la comunidad.",
+    "criterios_exclusion": "No inferir origen ancestral o prehispánico de una referencia cultural genérica.",
+    "limitaciones": "Se observó lenguaje cultural amplio y poca evidencia explícita de ancestros en varios países; solapamiento con otros temas históricos.",
+    "palabras_clave": "antepasados; conocer cultura; nuestros antepasados; nuestros; culturas; costumbres; ancestros; nuestros ancestros; culturales; cultura moche",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 2,
+    "parciales_n": 10,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 0.16666666666666666,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 0,
+        "P": 4,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 0,
+        "P": 4,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 2,
+        "P": 2,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T013",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Aprendizaje y actividades para niños",
+    "etiqueta": "Aprendizaje y actividades para niños",
+    "descripcion": "Opiniones sobre la adecuación de la visita para niños y adolescentes, su entretenimiento y sus oportunidades de aprendizaje. Incluye: Actividades infantiles, juegos, interactividad y recomendaciones o críticas para visitantes con niños. Exclusiones: No inferir edad de los autores ni que toda actividad interactiva sea adecuada para niños.",
+    "criterios_inclusion": "Actividades infantiles, juegos, interactividad y recomendaciones o críticas para visitantes con niños.",
+    "criterios_exclusion": "No inferir edad de los autores ni que toda actividad interactiva sea adecuada para niños.",
+    "limitaciones": "Contiene opiniones favorables y desfavorables sobre la experiencia infantil; el tópico no fija el sentimiento.",
+    "palabras_clave": "ninos; hijos; juegos; divertido ninos; pequenos; ninos adultos; llevar ninos; adultos; tus hijos; actividades ninos",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 12,
+    "parciales_n": 0,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 1.0,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T014",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Patrimonio inca y arquitectura de templos",
+    "etiqueta": "Patrimonio inca y arquitectura prehispánica",
+    "descripcion": "Agrupación de referencias a patrimonio inca, templos, ruinas y otras construcciones o culturas prehispánicas. Incluye: Patrimonio inca, arquitectura antigua, estructuras ceremoniales y explicaciones de culturas prehispánicas. Exclusiones: No clasificar automáticamente como inca una referencia zapoteca, colonial o de otro origen.",
+    "criterios_inclusion": "Patrimonio inca, arquitectura antigua, estructuras ceremoniales y explicaciones de culturas prehispánicas.",
+    "criterios_exclusion": "No clasificar automáticamente como inca una referencia zapoteca, colonial o de otro origen.",
+    "limitaciones": "En México aparecen patrimonio zapoteca, edificios coloniales y una exposición revolucionaria; el grupo no es homogéneo entre países.",
+    "palabras_clave": "inca; incas; templo; espanoles; imperio; imperio inca; qorikancha; sol; templo sol; muros",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 6,
+    "parciales_n": 4,
+    "no_coherentes_n": 2,
+    "soporte_muestral": 0.5,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 0,
+        "P": 2,
+        "N": 2
+      },
+      "PE": {
+        "n": 4,
+        "C": 2,
+        "P": 2,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": true,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T015",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Arte, pinturas, murales y esculturas",
+    "etiqueta": "Arte, obras y expresiones artísticas",
+    "descripcion": "Experiencias de apreciación de obras y expresiones artísticas, con presencia de pintura, murales, esculturas, cerámica y artesanías. Incluye: Exhibición de artistas, obras plásticas, creación artesanal y valoración estética. Exclusiones: No deducir una disciplina única ni confundir cualquier evento del lugar con arte plástico.",
+    "criterios_inclusion": "Exhibición de artistas, obras plásticas, creación artesanal y valoración estética.",
+    "criterios_exclusion": "No deducir una disciplina única ni confundir cualquier evento del lugar con arte plástico.",
+    "limitaciones": "También aparece una obra musical; la etiqueta abarca arte sin declarar exclusividad de las artes visuales.",
+    "palabras_clave": "arte; artistas; murales; obras arte; artista; pintura; obras; pinturas; mural; esculturas",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 11,
+    "parciales_n": 1,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 0.9166666666666666,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T016",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Historia y culturas del Perú",
+    "etiqueta": "Historia e identidad nacional",
+    "descripcion": "Agrupación contextual de reseñas sobre historia y cultura nacional, con vocabulario inicialmente asociado al Perú. Incluye: Menciones explícitas de historia nacional e identidad cultural del país referido en la reseña. Exclusiones: No atribuir todas las reseñas al Perú ni inferir nacionalidad del autor.",
+    "criterios_inclusion": "Menciones explícitas de historia nacional e identidad cultural del país referido en la reseña.",
+    "criterios_exclusion": "No atribuir todas las reseñas al Perú ni inferir nacionalidad del autor.",
+    "limitaciones": "Las reseñas argentinas hablan de Argentina; en México aparecen saludos desde Perú y contenidos sin historia peruana. No apto como indicador temático comparable.",
+    "palabras_clave": "peruana; peruano; peruanos; cultura peruana; historia peruana; norte; antepasados; buen aprender; conocer historia; historia numismatica",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 3,
+    "parciales_n": 2,
+    "no_coherentes_n": 7,
+    "soporte_muestral": 0.25,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 0,
+        "P": 0,
+        "N": 4
+      },
+      "MX": {
+        "n": 4,
+        "C": 0,
+        "P": 1,
+        "N": 3
+      },
+      "PE": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": true,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T017",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Precios y medios de pago",
+    "etiqueta": "Precios, entradas y medios de pago",
+    "descripcion": "Experiencias sobre el costo de la visita y sus servicios, la relación precio-valor y los medios de pago disponibles. Incluye: Entradas, propinas, descuentos, gratuidad, cobros por fotografías y uso de efectivo o tarjetas. Exclusiones: Los importes corresponden al momento y moneda de cada reseña; no son tarifas actuales comparables directamente.",
+    "criterios_inclusion": "Entradas, propinas, descuentos, gratuidad, cobros por fotografías y uso de efectivo o tarjetas.",
+    "criterios_exclusion": "Los importes corresponden al momento y moneda de cada reseña; no son tarifas actuales comparables directamente.",
+    "limitaciones": "Comparte reseñas con acceso y taquilla; no sumar ambos grupos como dimensiones mutuamente excluyentes de la experiencia.",
+    "palabras_clave": "caro; efectivo; precio; tarjeta; pesos; soles; cobran; costo; adulto; soles adulto",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 11,
+    "parciales_n": 1,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 0.9166666666666666,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T018",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Carencias de organización y servicio",
+    "etiqueta": "Limitaciones del recorrido y oportunidades de mejora",
+    "descripcion": "Agrupación de comentarios sobre recursos, espacio, información, mantenimiento y expectativas no satisfechas durante la visita. Incluye: Falta de material o explicaciones, abandono, escasez de instalaciones y críticas sobre el recorrido. Exclusiones: No interpretar una referencia a tamaño pequeño como insatisfacción si la reseña es favorable.",
+    "criterios_inclusion": "Falta de material o explicaciones, abandono, escasez de instalaciones y críticas sobre el recorrido.",
+    "criterios_exclusion": "No interpretar una referencia a tamaño pequeño como insatisfacción si la reseña es favorable.",
+    "limitaciones": "Varias reseñas de museos pequeños son positivas; no usar el tópico como sustituto de sentimiento negativo.",
+    "palabras_clave": "mejorar; falta; aburrido; falta mejorar; pequeno ordenado; falta atencion; gusto pequeno; mala atencion; pequenito; podria",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 6,
+    "parciales_n": 5,
+    "no_coherentes_n": 1,
+    "soporte_muestral": 0.5,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 2,
+        "P": 1,
+        "N": 1
+      },
+      "MX": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 1,
+        "P": 3,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T019",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Experiencia de visitas guiadas",
+    "etiqueta": "Experiencia de visita y mediación de guías",
+    "descripcion": "Agrupación de valoraciones globales de la experiencia, algunas relacionadas con explicaciones, atención y mediación de guías. Incluye: Experiencias recomendadas, aprendizaje durante el recorrido y comentarios de guías. Exclusiones: No asumir visita guiada cuando solo se menciona una experiencia agradable.",
+    "criterios_inclusion": "Experiencias recomendadas, aprendizaje durante el recorrido y comentarios de guías.",
+    "criterios_exclusion": "No asumir visita guiada cuando solo se menciona una experiencia agradable.",
+    "limitaciones": "La mayoría de varios estratos es genérica y no confirma guiado; la etiqueta anterior sobreestimaba ese componente.",
+    "palabras_clave": "guia experiencia; recomendado experiencia; experiencia recomendado; experiencia unica; inolvidable experiencia; amable experiencia; muchas gracias; experiencia padre; experiencia increible; unica",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 4,
+    "parciales_n": 8,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 0.3333333333333333,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 2,
+        "P": 2,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 0,
+        "P": 4,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 2,
+        "P": 2,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T020",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Patrimonio religioso y conventos",
+    "etiqueta": "Patrimonio religioso, iglesias y conventos",
+    "descripcion": "Experiencias de visita y apreciación de templos, conventos, reliquias, arte religioso y espacios patrimoniales vinculados. Incluye: Edificios religiosos, pintura eclesiástica, teología y colecciones relacionadas. Exclusiones: No inferir religión del autor ni práctica devocional a partir de una visita cultural.",
+    "criterios_inclusion": "Edificios religiosos, pintura eclesiástica, teología y colecciones relacionadas.",
+    "criterios_exclusion": "No inferir religión del autor ni práctica devocional a partir de una visita cultural.",
+    "limitaciones": "Algunas reseñas describen plazas o áreas verdes cercanas; no todas evalúan el patrimonio religioso directamente.",
+    "palabras_clave": "iglesia; convento; monasterio; religioso; santa; ex convento; capilla; catedral; ex; catolica",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 10,
+    "parciales_n": 1,
+    "no_coherentes_n": 1,
+    "soporte_muestral": 0.8333333333333334,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T021",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Huacas y culturas prehispánicas",
+    "etiqueta": "Patrimonio local y referencias territoriales",
+    "descripcion": "Agrupación contextual que combina huacas y culturas prehispánicas con referencias a localidades y patrimonio histórico diverso. Incluye: Solo interpretar de forma específica una reseña que mencione explícitamente la cultura o el bien patrimonial. Exclusiones: No extender la categoría huaca o prehispánica a todo el grupo por semejanza de topónimos.",
+    "criterios_inclusion": "Solo interpretar de forma específica una reseña que mencione explícitamente la cultura o el bien patrimonial.",
+    "criterios_exclusion": "No extender la categoría huaca o prehispánica a todo el grupo por semejanza de topónimos.",
+    "limitaciones": "Aparecen Chascomús, Chaco, Miramar, Chapala, Chapultepec y marionetas de Cajamarca. No hay un tema prehispánico común verificable entre países.",
+    "palabras_clave": "huaca; huaraz; cajamarca; chiapas; chimu; huanuco; luna; cultura chimu; huacas; huasca",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 2,
+    "parciales_n": 1,
+    "no_coherentes_n": 9,
+    "soporte_muestral": 0.16666666666666666,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 0,
+        "P": 0,
+        "N": 4
+      },
+      "MX": {
+        "n": 4,
+        "C": 0,
+        "P": 0,
+        "N": 4
+      },
+      "PE": {
+        "n": 4,
+        "C": 2,
+        "P": 1,
+        "N": 1
+      }
+    },
+    "riesgo_contextual": true,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T022",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Visitas con familia y amigos",
+    "etiqueta": "Visitas con familia, amigos o pareja",
+    "descripcion": "Opiniones sobre compartir la visita con familia, amigos o pareja y la adecuación del lugar para actividades en compañía. Incluye: Recomendaciones familiares, tiempo compartido y actividades grupales. Exclusiones: No inferir parentescos, composición del hogar o edad del autor más allá del contenido textual.",
+    "criterios_inclusion": "Recomendaciones familiares, tiempo compartido y actividades grupales.",
+    "criterios_exclusion": "No inferir parentescos, composición del hogar o edad del autor más allá del contenido textual.",
+    "limitaciones": "La visita acompañada puede coexistir con cualquier otro aspecto temático y no determina satisfacción.",
+    "palabras_clave": "ir familia; disfrutar familia; amigos; familia amigos; rato familia; toda familia; pareja; familiar; compartir; pasar familia",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 12,
+    "parciales_n": 0,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 1.0,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T023",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Automóviles clásicos y restauración",
+    "etiqueta": "Automóviles de colección e historia del motor",
+    "descripcion": "Experiencias en colecciones de automóviles y exhibiciones sobre motores, automovilismo y vehículos históricos. Incluye: Autos clásicos, conservación de vehículos, historia del automóvil y valoración de las colecciones. Exclusiones: No atribuir restauración técnica a todo vehículo bien presentado si no se documenta.",
+    "criterios_inclusion": "Autos clásicos, conservación de vehículos, historia del automóvil y valoración de las colecciones.",
+    "criterios_exclusion": "No atribuir restauración técnica a todo vehículo bien presentado si no se documenta.",
+    "limitaciones": "El estado de conservación expresado por visitantes es una percepción, no una inspección mecánica.",
+    "palabras_clave": "autos; coches; coleccion autos; clasicos; carros; automovil; automoviles; taller; vehiculos; coleccion",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 12,
+    "parciales_n": 0,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 1.0,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T024",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Arte y patrimonio cultural peruano",
+    "etiqueta": "Patrimonio cultural e historia regional",
+    "descripcion": "Agrupación contextual de cultura, historia, arte y patrimonio regional, originalmente etiquetada como patrimonio peruano. Incluye: Contenido cultural regional explícito descrito por la reseña. Exclusiones: No tratar todo el grupo como arte peruano ni como evidencia exclusiva de un país.",
+    "criterios_inclusion": "Contenido cultural regional explícito descrito por la reseña.",
+    "criterios_exclusion": "No tratar todo el grupo como arte peruano ni como evidencia exclusiva de un país.",
+    "limitaciones": "La muestra argentina contiene museos patagónicos y paleontología; la mexicana incluye gastronomía y memoria local. Se solapa con historia e identidad nacional.",
+    "palabras_clave": "peruana; peruano; peruanos; cultura peruana; culturas; peruanas; historia peruana; barranco; norte; culturas peruanas",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 11,
+    "coherentes_n": 3,
+    "parciales_n": 1,
+    "no_coherentes_n": 7,
+    "soporte_muestral": 0.2727272727272727,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 0,
+        "P": 0,
+        "N": 4
+      },
+      "MX": {
+        "n": 3,
+        "C": 0,
+        "P": 0,
+        "N": 3
+      },
+      "PE": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": true,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T025",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Historia regional del Cusco y boleto turístico",
+    "etiqueta": "Historia regional y circuitos de visita",
+    "descripcion": "Agrupación contextual de museos regionales, edificios históricos y recorridos, con fuerte referencia original al Cusco. Incluye: Historia regional y condiciones de visita solo cuando se mencionan explícitamente. Exclusiones: No identificar automáticamente Cusco o boleto turístico en las reseñas de otros lugares.",
+    "criterios_inclusion": "Historia regional y condiciones de visita solo cuando se mencionan explícitamente.",
+    "criterios_exclusion": "No identificar automáticamente Cusco o boleto turístico en las reseñas de otros lugares.",
+    "limitaciones": "Se observaron Cuyo, Tucumán, Rosario, Culhuacán, CU y Cuale. La agrupación mezcla referencias territoriales; no apta para comparar una experiencia específica.",
+    "palabras_clave": "cusco; cuzco; garcilaso; historia cusco; boleto turistico; historico regional; turistico cusco; vega; boleto; turistico",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 4,
+    "parciales_n": 1,
+    "no_coherentes_n": 7,
+    "soporte_muestral": 0.3333333333333333,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 0,
+        "P": 1,
+        "N": 3
+      },
+      "MX": {
+        "n": 4,
+        "C": 0,
+        "P": 0,
+        "N": 4
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": true,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T026",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Casas-museo y personajes históricos",
+    "etiqueta": "Casas-museo y memoria de personajes",
+    "descripcion": "Experiencias relacionadas con residencias históricas, vida y obra de personajes, homenajes y memoria biográfica. Incluye: Casas de escritores o figuras históricas, biografías, legados y homenajes artísticos. Exclusiones: Un nombre de guía o trabajador no convierte una reseña en contenido biográfico.",
+    "criterios_inclusion": "Casas de escritores o figuras históricas, biografías, legados y homenajes artísticos.",
+    "criterios_exclusion": "Un nombre de guía o trabajador no convierte una reseña en contenido biográfico.",
+    "limitaciones": "Se observaron nombres propios de guías como José o Ricardo sin relación con personajes históricos; revisar ejemplos individuales antes de citarlos.",
+    "palabras_clave": "vargas; vargas llosa; llosa; grau; miguel grau; miguel; alfredo; almirante; vida; jose",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 9,
+    "parciales_n": 1,
+    "no_coherentes_n": 2,
+    "soporte_muestral": 0.75,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 2,
+        "P": 1,
+        "N": 1
+      },
+      "MX": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T027",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Historia política y revolución mexicana",
+    "etiqueta": "Historia y referencias a México y La Mejicana",
+    "descripcion": "Agrupación contextual de referencias mexicanas y otras menciones de semejanza léxica, incluida la mina La Mejicana en Argentina. Incluye: Solo tomar como contenido histórico mexicano o político los textos que lo expresen de forma directa. Exclusiones: No equiparar la mina La Mejicana con la Revolución mexicana ni atribuir política a deportes, empresas o bancos.",
+    "criterios_inclusion": "Solo tomar como contenido histórico mexicano o político los textos que lo expresen de forma directa.",
+    "criterios_exclusion": "No equiparar la mina La Mejicana con la Revolución mexicana ni atribuir política a deportes, empresas o bancos.",
+    "limitaciones": "La muestra no sostiene el título político original; hay homonimia y mezcla de historia industrial, cultural y referencias generales. No apta para KPI temáticos.",
+    "palabras_clave": "mexicana; revolucion mexicana; mexicanos; mexicano; mexicanas; revolucion; cultura mexicana; constitucion; serdan; encanta historia",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 0,
+    "parciales_n": 3,
+    "no_coherentes_n": 9,
+    "soporte_muestral": 0.0,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 0,
+        "P": 0,
+        "N": 4
+      },
+      "MX": {
+        "n": 4,
+        "C": 0,
+        "P": 2,
+        "N": 2
+      },
+      "PE": {
+        "n": 4,
+        "C": 0,
+        "P": 1,
+        "N": 3
+      }
+    },
+    "riesgo_contextual": true,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T028",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Patrimonio del Centro Histórico de Lima",
+    "etiqueta": "Referencias a Lima y patrimonio urbano",
+    "descripcion": "Agrupación contextual de referencias a Lima y otros contenidos urbanos o territoriales de semejanza léxica. Incluye: Interpretación territorial únicamente cuando el texto identifica claramente la ciudad o cultura referida. Exclusiones: No confundir Lima con Limay ni con sopa de lima; no asumir Centro Histórico de Lima para todos los registros.",
+    "criterios_inclusion": "Interpretación territorial únicamente cuando el texto identifica claramente la ciudad o cultura referida.",
+    "criterios_exclusion": "No confundir Lima con Limay ni con sopa de lima; no asumir Centro Histórico de Lima para todos los registros.",
+    "limitaciones": "En Argentina aparecen Limay y patrimonio de otras ciudades; en México una reseña de sopa de lima. La categoría original no es geográficamente válida para todo el grupo.",
+    "palabras_clave": "lima; centro lima; historico lima; ciudad lima; metropolitano; centro historico; favoritos; teatro municipal; mejores; teatro",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 2,
+    "parciales_n": 2,
+    "no_coherentes_n": 8,
+    "soporte_muestral": 0.16666666666666666,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 0,
+        "P": 0,
+        "N": 4
+      },
+      "MX": {
+        "n": 4,
+        "C": 0,
+        "P": 0,
+        "N": 4
+      },
+      "PE": {
+        "n": 4,
+        "C": 2,
+        "P": 2,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": true,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T029",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Mineralogía, minería y patrimonio industrial",
+    "etiqueta": "Mineralogía, minería y patrimonio industrial",
+    "descripcion": "Experiencias sobre colecciones de minerales y rocas, minas, túneles y aprendizaje de la historia de la actividad minera. Incluye: Exhibición mineralógica, patrimonio minero, trabajo de mineros y recorridos por minas. Exclusiones: Una visita genérica a cuevas no acredita necesariamente minería o mineralogía.",
+    "criterios_inclusion": "Exhibición mineralógica, patrimonio minero, trabajo de mineros y recorridos por minas.",
+    "criterios_exclusion": "Una visita genérica a cuevas no acredita necesariamente minería o mineralogía.",
+    "limitaciones": "Puede coexistir arqueología o fósiles en las mismas colecciones; no reducir todas las reseñas a condiciones laborales mineras.",
+    "palabras_clave": "minerales; mina; mineria; mineros; minera; minas; coleccion minerales; historia mineria; mineral; plata",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 11,
+    "parciales_n": 1,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 0.9166666666666666,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T030",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Sitios arqueológicos y ruinas",
+    "etiqueta": "Arqueología, ruinas y patrimonio material antiguo",
+    "descripcion": "Experiencias de visita y aprendizaje en sitios arqueológicos, ruinas, monumentos y colecciones de culturas antiguas. Incluye: Yacimientos, pirámides, tumbas, monolitos, estructuras antiguas y piezas arqueológicas. Exclusiones: Distinguir formaciones naturales, fósiles y monumentos modernos cuando no se relacionan con arqueología.",
+    "criterios_inclusion": "Yacimientos, pirámides, tumbas, monolitos, estructuras antiguas y piezas arqueológicas.",
+    "criterios_exclusion": "Distinguir formaciones naturales, fósiles y monumentos modernos cuando no se relacionan con arqueología.",
+    "limitaciones": "En Argentina aparecen colecciones paleontológicas mixtas; hay referencias aisladas a una mina y una roca natural.",
+    "palabras_clave": "zona arqueologica; arqueologico; piramides; arqueologica; sitio arqueologico; arqueologicos; sector; ruinas; piramide; centro arqueologico",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 9,
+    "parciales_n": 1,
+    "no_coherentes_n": 2,
+    "soporte_muestral": 0.75,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      },
+      "PE": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T031",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Mantenimiento, limpieza y seguridad",
+    "etiqueta": "Estado del lugar, mantenimiento y seguridad",
+    "descripcion": "Agrupación de opiniones sobre conservación, mantenimiento, limpieza, seguridad y condiciones generales de uso del lugar. Incluye: Deterioro, riesgo, necesidades de mantenimiento, cuidado de instalaciones y dificultades para recorrer. Exclusiones: No inferir inseguridad de un comentario genérico de poco interés o falta de promoción.",
+    "criterios_inclusion": "Deterioro, riesgo, necesidades de mantenimiento, cuidado de instalaciones y dificultades para recorrer.",
+    "criterios_exclusion": "No inferir inseguridad de un comentario genérico de poco interés o falta de promoción.",
+    "limitaciones": "La muestra mezcla estado material con atractivo turístico y concurrencia; no es una medida homogénea de seguridad.",
+    "palabras_clave": "peligroso; descuidado; municipal; ciudadanos; transito; mucha basura; falta; via; mantenimiento; publica",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 6,
+    "parciales_n": 4,
+    "no_coherentes_n": 2,
+    "soporte_muestral": 0.5,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 2,
+        "P": 2,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 2,
+        "P": 1,
+        "N": 1
+      },
+      "PE": {
+        "n": 4,
+        "C": 2,
+        "P": 1,
+        "N": 1
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T032",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Patrimonio mexicano y relatos históricos",
+    "etiqueta": "Patrimonio e historia cultural de México y otros contextos",
+    "descripcion": "Agrupación contextual de patrimonio, objetos históricos y referencias culturales, originalmente asociada a México. Incluye: Contenido histórico o cultural mexicano cuando está expresamente presente. Exclusiones: No identificar todas las reseñas como mexicanas a partir del tópico; usar el país del lugar para análisis geográfico.",
+    "criterios_inclusion": "Contenido histórico o cultural mexicano cuando está expresamente presente.",
+    "criterios_exclusion": "No identificar todas las reseñas como mexicanas a partir del tópico; usar el país del lugar para análisis geográfico.",
+    "limitaciones": "Las reseñas argentinas describen costumbres gauchas, colonos y ciudades argentinas. La muestra peruana sí menciona México, pero no valida la etiqueta en otros países.",
+    "palabras_clave": "mexicanos; mexicano; mexicana; san miguel; juguetes; fotografia; cine; pierdas; cultura mexicana; archivo",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 9,
+    "coherentes_n": 4,
+    "parciales_n": 1,
+    "no_coherentes_n": 4,
+    "soporte_muestral": 0.4444444444444444,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 0,
+        "P": 0,
+        "N": 4
+      },
+      "MX": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      },
+      "PE": {
+        "n": 1,
+        "C": 1,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": true,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T033",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Turismo natural y avistamiento de fauna",
+    "etiqueta": "Naturaleza, fauna y culturas amazónicas",
+    "descripcion": "Agrupación que combina turismo natural, observación o interpretación de fauna y referencias culturales amazónicas, incluida la ayahuasca. Incluye: Paisajes naturales, ballenas, ambientes amazónicos y experiencias culturales expresamente vinculadas. Exclusiones: No equiparar todo el grupo con avistamiento de animales; una metáfora como elefante blanco no describe fauna.",
+    "criterios_inclusion": "Paisajes naturales, ballenas, ambientes amazónicos y experiencias culturales expresamente vinculadas.",
+    "criterios_exclusion": "No equiparar todo el grupo con avistamiento de animales; una metáfora como elefante blanco no describe fauna.",
+    "limitaciones": "Los estratos de Argentina, México y Perú representan subtemas distintos. No apta como indicador exclusivo de conservación o avistamiento.",
+    "palabras_clave": "ayahuasca; amazonia; amazonas; avistamiento; amazonica; pacifico; amazonicas; ballena; animales; tortugas",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 6,
+    "parciales_n": 2,
+    "no_coherentes_n": 4,
+    "soporte_muestral": 0.5,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 1,
+        "P": 1,
+        "N": 2
+      },
+      "PE": {
+        "n": 4,
+        "C": 1,
+        "P": 1,
+        "N": 2
+      }
+    },
+    "riesgo_contextual": true,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T034",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Áreas verdes, tranquilidad y relajación",
+    "etiqueta": "Ambiente tranquilo y espacios de descanso",
+    "descripcion": "Opiniones sobre tranquilidad, comodidad, descanso y disfrute de espacios abiertos o acogedores durante la visita. Incluye: Relajación, áreas verdes, lectura, pausa y ambiente tranquilo. Exclusiones: Una recomendación general de pasar la tarde no demuestra presencia de jardín o tranquilidad.",
+    "criterios_inclusion": "Relajación, áreas verdes, lectura, pausa y ambiente tranquilo.",
+    "criterios_exclusion": "Una recomendación general de pasar la tarde no demuestra presencia de jardín o tranquilidad.",
+    "limitaciones": "Algunas reseñas son genéricas o describen servicios de camping; evitar inferencias sobre infraestructura no mencionada.",
+    "palabras_clave": "tranquilo; relajarse; areas verdes; verdes; acogedor tranquilo; tranquilidad; verde; pasar tarde; relajarte; lindo tranquilo",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 7,
+    "parciales_n": 5,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 0.5833333333333334,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 2,
+        "P": 2,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 1,
+        "P": 3,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T035",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Misticismo y tradiciones locales",
+    "etiqueta": "Encanto del lugar, leyendas y misticismo",
+    "descripcion": "Agrupación de expresiones de encanto o magia junto con referencias a leyendas, mitos y experiencias místicas. Incluye: Relatos legendarios, misticismo y valoraciones metafóricas de un lugar como mágico. Exclusiones: No interpretar toda palabra mágico como creencia espiritual o tradición religiosa.",
+    "criterios_inclusion": "Relatos legendarios, misticismo y valoraciones metafóricas de un lugar como mágico.",
+    "criterios_exclusion": "No interpretar toda palabra mágico como creencia espiritual o tradición religiosa.",
+    "limitaciones": "Gran parte de Argentina y México usa magia como elogio o referencia artística; la interpretación mística predomina solo en algunos textos peruanos.",
+    "palabras_clave": "magico; magia; duendes; milagros; senor milagros; lleno magia; historia senor; mistico; misticismo; magico lleno",
+    "validacion_etiqueta": "REVISADO_IA_USO_RESTRINGIDO",
+    "apto_analisis_tematico": false,
+    "muestra_n": 12,
+    "coherentes_n": 4,
+    "parciales_n": 7,
+    "no_coherentes_n": 1,
+    "soporte_muestral": 0.3333333333333333,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 0,
+        "P": 4,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 0,
+        "P": 3,
+        "N": 1
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T036",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Chocolate, cacao y degustación",
+    "etiqueta": "Chocolate, cacao y degustación",
+    "descripcion": "Experiencias de aprendizaje, elaboración, consumo y apreciación artística del cacao y el chocolate. Incluye: Museos y talleres de cacao, procesos, degustaciones, tiendas y obras en chocolate. Exclusiones: Distinguir del café y de gastronomía sin referencia a cacao o chocolate.",
+    "criterios_inclusion": "Museos y talleres de cacao, procesos, degustaciones, tiendas y obras en chocolate.",
+    "criterios_exclusion": "Distinguir del café y de gastronomía sin referencia a cacao o chocolate.",
+    "limitaciones": "Las expectativas pueden ser positivas o negativas; el tópico no acredita que exista demostración de fábrica en cada visita.",
+    "palabras_clave": "chocolate; cacao; chocolates; degustacion; caliente; bebidas; elaboracion; final; mole; 75",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 12,
+    "parciales_n": 0,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 1.0,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T037",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Jardines botánicos y plantas",
+    "etiqueta": "Jardines, plantas y espacios botánicos",
+    "descripcion": "Experiencias de apreciación de jardines, vegetación, flores y exhibiciones botánicas en los lugares visitados. Incluye: Especies vegetales, orquídeas, jardines, árboles y conservación de vegetación. Exclusiones: No interpretar plantas como pisos de un edificio ni cultivarse como evidencia botánica.",
+    "criterios_inclusion": "Especies vegetales, orquídeas, jardines, árboles y conservación de vegetación.",
+    "criterios_exclusion": "No interpretar plantas como pisos de un edificio ni cultivarse como evidencia botánica.",
+    "limitaciones": "Se detectó una referencia a tres plantas de un edificio y una expresión figurada; controlar esa polisemia.",
+    "palabras_clave": "jardin; plantas; flores; jardines; jardin botanico; botanico; vivero; organicos; hermosos jardines; pasto",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 10,
+    "parciales_n": 1,
+    "no_coherentes_n": 1,
+    "soporte_muestral": 0.8333333333333334,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      },
+      "MX": {
+        "n": 4,
+        "C": 3,
+        "P": 1,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T038",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Patrimonio musical y conciertos",
+    "etiqueta": "Música, instrumentos y conciertos",
+    "descripcion": "Experiencias de patrimonio musical, instrumentos, artistas, conciertos, coros y otras actividades de interpretación musical. Incluye: Música criolla, instrumentos andinos, orquestas, recitales y condiciones de escucha. Exclusiones: No confundir la mera realización de un evento con un concierto si no hay contenido musical explícito.",
+    "criterios_inclusion": "Música criolla, instrumentos andinos, orquestas, recitales y condiciones de escucha.",
+    "criterios_exclusion": "No confundir la mera realización de un evento con un concierto si no hay contenido musical explícito.",
+    "limitaciones": "Incluye tanto colecciones permanentes como presentaciones y música ambiental; no son equivalentes en operación.",
+    "palabras_clave": "musica; canciones; concierto; criolla; cri; musicales; cantante; cri cri; musicos; musical",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 12,
+    "parciales_n": 0,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 1.0,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T039",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Recorridos y valoración general de la visita",
+    "etiqueta": "Recorridos y recomendación general de visita",
+    "descripcion": "Valoraciones globales de recorridos y recomendaciones de visitar el lugar, con o sin referencia explícita a un guía. Incluye: Utilidad del recorrido, interés de la visita, recomendaciones y agradecimientos por el tour. Exclusiones: No inferir un atributo específico como precio, accesibilidad o conservación solo por una recomendación global.",
+    "criterios_inclusion": "Utilidad del recorrido, interés de la visita, recomendaciones y agradecimientos por el tour.",
+    "criterios_exclusion": "No inferir un atributo específico como precio, accesibilidad o conservación solo por una recomendación global.",
+    "limitaciones": "Grupo amplio y predominantemente valorativo; se solapa con experiencia general y atención de guías.",
+    "palabras_clave": "tour; caral; visitarlo increible; diaz miron; miron; salvador diaz; increible personal; tienes visitarlo; visitarlo experiencia; merece pena",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 12,
+    "parciales_n": 0,
+    "no_coherentes_n": 0,
+    "soporte_muestral": 1.0,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "MX": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      },
+      "PE": {
+        "n": 4,
+        "C": 4,
+        "P": 0,
+        "N": 0
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  },
+  {
+    "codigo_topico": "s-bert-8bcb6303e2dc-T040",
+    "version_modelo": "s-bert-8bcb6303e2dc",
+    "version_revision": "revision-ia-20261023-v1",
+    "etiqueta_anterior": "Mariposarios, abejas y conservación de insectos",
+    "etiqueta": "Mariposarios, abejas y divulgación de invertebrados",
+    "descripcion": "Experiencias de observación y aprendizaje en mariposarios, espacios de abejas y otras exhibiciones de invertebrados. Incluye: Ciclo de mariposas, abejas nativas, laboratorios, arañas y explicaciones de especies. Exclusiones: No interpretar toda queja de mosquitos como referencia a una exhibición o programa de conservación.",
+    "criterios_inclusion": "Ciclo de mariposas, abejas nativas, laboratorios, arañas y explicaciones de especies.",
+    "criterios_exclusion": "No interpretar toda queja de mosquitos como referencia a una exhibición o programa de conservación.",
+    "limitaciones": "Hay comentarios de mosquitos incidentales y cierre del lugar; la etiqueta no acredita actividades de conservación en todos los casos.",
+    "palabras_clave": "mariposas; abejas; mariposario; nativas; insectos; liberar; fabian; miel; vallarta; puerto vallarta",
+    "validacion_etiqueta": "REVISADO_IA_SOPORTE_MUESTRAL",
+    "apto_analisis_tematico": true,
+    "muestra_n": 12,
+    "coherentes_n": 9,
+    "parciales_n": 0,
+    "no_coherentes_n": 3,
+    "soporte_muestral": 0.75,
+    "detalle_paises": {
+      "AR": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      },
+      "MX": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      },
+      "PE": {
+        "n": 4,
+        "C": 3,
+        "P": 0,
+        "N": 1
+      }
+    },
+    "riesgo_contextual": false,
+    "metodo_revision": "Lectura semántica por agente IA; muestreo determinista de textos únicos por tópico y país; no validación humana",
+    "criterio_uso": "C/n >= 2/3 global, C/n >= 1/2 en cada país y sin riesgo contextual grave; diagnóstico muestral, no exactitud poblacional"
+  }
+]

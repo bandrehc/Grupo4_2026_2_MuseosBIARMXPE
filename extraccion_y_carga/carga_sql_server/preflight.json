@@ -1,0 +1,84 @@
+{
+  "servidor": [
+    {
+      "instancia": "<instancia local>",
+      "version": "Microsoft SQL Server 2019 (RTM-GDR) (KB5128495) - 15.0.2200.2 (X64) \n\tSep 26 2026 20:12:55 \n\tCopyright (C) 2019 Microsoft Corporation\n\tDeveloper Edition (64-bit) on Windows 10 Home 10.0 <X64> (Build 19045: )\n",
+      "edicion": "Developer Edition (64-bit)",
+      "colacion": "Modern_Spanish_CI_AS",
+      "sysadmin": 1,
+      "crear_bd": 1
+    }
+  ],
+  "memoria": [
+    {
+      "physical_memory_kb": 16188312,
+      "committed_kb": 1141480,
+      "committed_target_kb": 7490448
+    }
+  ],
+  "archivos": [
+    {
+      "base": "MuseosLatam_Origen_Piloto",
+      "name": "MuseosLatam_Origen_Piloto",
+      "tipo": "ROWS",
+      "size_mb": "72.000000",
+      "physical_name": "C:\\Program Files\\Microsoft SQL Server\\MSSQL15.<instancia>\\MSSQL\\DATA\\MuseosLatam_Origen_Piloto.mdf"
+    },
+    {
+      "base": "MuseosLatam_Origen_Piloto",
+      "name": "MuseosLatam_Origen_Piloto_log",
+      "tipo": "LOG",
+      "size_mb": "72.000000",
+      "physical_name": "C:\\Program Files\\Microsoft SQL Server\\MSSQL15.<instancia>\\MSSQL\\DATA\\MuseosLatam_Origen_Piloto_log.ldf"
+    },
+    {
+      "base": "MuseosLatam_Datamart_Piloto",
+      "name": "MuseosLatam_Datamart_Piloto",
+      "tipo": "ROWS",
+      "size_mb": "72.000000",
+      "physical_name": "C:\\Program Files\\Microsoft SQL Server\\MSSQL15.<instancia>\\MSSQL\\DATA\\MuseosLatam_Datamart_Piloto.mdf"
+    },
+    {
+      "base": "MuseosLatam_Datamart_Piloto",
+      "name": "MuseosLatam_Datamart_Piloto_log",
+      "tipo": "LOG",
+      "size_mb": "72.000000",
+      "physical_name": "C:\\Program Files\\Microsoft SQL Server\\MSSQL15.<instancia>\\MSSQL\\DATA\\MuseosLatam_Datamart_Piloto_log.ldf"
+    },
+    {
+      "base": "MuseosLatam_Origen",
+      "name": "MuseosLatam_Origen",
+      "tipo": "ROWS",
+      "size_mb": "584.000000",
+      "physical_name": "C:\\Program Files\\Microsoft SQL Server\\MSSQL15.<instancia>\\MSSQL\\DATA\\MuseosLatam_Origen.mdf"
+    },
+    {
+      "base": "MuseosLatam_Origen",
+      "name": "MuseosLatam_Origen_log",
+      "tipo": "LOG",
+      "size_mb": "264.000000",
+      "physical_name": "C:\\Program Files\\Microsoft SQL Server\\MSSQL15.<instancia>\\MSSQL\\DATA\\MuseosLatam_Origen_log.ldf"
+    },
+    {
+      "base": "MuseosLatam_Datamart",
+      "name": "MuseosLatam_Datamart",
+      "tipo": "ROWS",
+      "size_mb": "8.000000",
+      "physical_name": "C:\\Program Files\\Microsoft SQL Server\\MSSQL15.<instancia>\\MSSQL\\DATA\\MuseosLatam_Datamart.mdf"
+    },
+    {
+      "base": "MuseosLatam_Datamart",
+      "name": "MuseosLatam_Datamart_log",
+      "tipo": "LOG",
+      "size_mb": "8.000000",
+      "physical_name": "C:\\Program Files\\Microsoft SQL Server\\MSSQL15.<instancia>\\MSSQL\\DATA\\MuseosLatam_Datamart_log.ldf"
+    }
+  ],
+  "volumenes": [
+    {
+      "volume_mount_point": "C:\\",
+      "available_bytes": 132919320576,
+      "total_bytes": 510987145216
+    }
+  ]
+}

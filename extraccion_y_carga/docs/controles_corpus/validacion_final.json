@@ -1,0 +1,211 @@
+{
+  "version": "latam-ampliacion-2026-10-22-v1",
+  "updated": "2026-10-23T05:04:51.975288+00:00",
+  "cache": {
+    "nlp_texts": 248215,
+    "topic_assignments": 248215,
+    "embeddings": 229771
+  },
+  "countries": {
+    "PE": {
+      "reviews": 121955,
+      "with_text": 60943,
+      "eligible_topics": 46913,
+      "nlp": {
+        "BAJA_CONFIANZA": 9909,
+        "IDIOMA_NO_SOPORTADO": 18,
+        "OK": 34439,
+        "OK_IDIOMA_INCIERTO": 16301,
+        "SIN_SENAL": 276,
+        "SIN_TEXTO": 61012
+      },
+      "topics": {
+        "FUERA_DE_GRUPO": 23142,
+        "IDIOMA_FUERA_ALCANCE": 48,
+        "OK": 18725,
+        "OK_IDIOMA_INCIERTO": 5046,
+        "SIN_SENAL_TEMATICA": 13982,
+        "SIN_TEXTO": 61012
+      },
+      "languages": {
+        "ca": 1,
+        "de": 1,
+        "en": 4,
+        "es": 39448,
+        "fr": 3,
+        "ga": 1,
+        "hu": 1,
+        "it": 1,
+        "ko": 1,
+        "la": 1,
+        "ms": 2,
+        "pt": 21,
+        "sw": 1,
+        "tl": 1,
+        "tn": 4,
+        "vi": 1,
+        "xx": 82459,
+        "yo": 4
+      },
+      "assigned": 23771
+    },
+    "MX": {
+      "reviews": 560328,
+      "with_text": 270051,
+      "eligible_topics": 219075,
+      "nlp": {
+        "BAJA_CONFIANZA": 33749,
+        "IDIOMA_NO_SOPORTADO": 47,
+        "OK": 166511,
+        "OK_IDIOMA_INCIERTO": 68745,
+        "SIN_SENAL": 999,
+        "SIN_TEXTO": 290277
+      },
+      "topics": {
+        "FUERA_DE_GRUPO": 116567,
+        "IDIOMA_FUERA_ALCANCE": 136,
+        "OK": 80423,
+        "OK_IDIOMA_INCIERTO": 22085,
+        "SIN_SENAL_TEMATICA": 50840,
+        "SIN_TEXTO": 290277
+      },
+      "languages": {
+        "ca": 2,
+        "cs": 1,
+        "cy": 1,
+        "en": 36,
+        "es": 186542,
+        "et": 1,
+        "eu": 5,
+        "fi": 1,
+        "fr": 4,
+        "ga": 4,
+        "la": 2,
+        "lg": 1,
+        "ms": 4,
+        "pt": 49,
+        "so": 4,
+        "st": 1,
+        "sv": 1,
+        "sw": 2,
+        "th": 1,
+        "tl": 2,
+        "tn": 8,
+        "ts": 1,
+        "vi": 1,
+        "xx": 373650,
+        "yo": 4
+      },
+      "assigned": 102508
+    },
+    "AR": {
+      "reviews": 461594,
+      "with_text": 292344,
+      "eligible_topics": 240831,
+      "nlp": {
+        "BAJA_CONFIANZA": 28400,
+        "IDIOMA_NO_SOPORTADO": 40,
+        "OK": 186886,
+        "OK_IDIOMA_INCIERTO": 76252,
+        "SIN_SENAL": 766,
+        "SIN_TEXTO": 169250
+      },
+      "topics": {
+        "FUERA_DE_GRUPO": 133554,
+        "IDIOMA_FUERA_ALCANCE": 2064,
+        "OK": 83577,
+        "OK_IDIOMA_INCIERTO": 23700,
+        "SIN_SENAL_TEMATICA": 49449,
+        "SIN_TEXTO": 169250
+      },
+      "languages": {
+        "ca": 1,
+        "cy": 1,
+        "en": 1949,
+        "es": 202049,
+        "eu": 5,
+        "fr": 5,
+        "it": 2,
+        "la": 7,
+        "lg": 1,
+        "ms": 2,
+        "pl": 1,
+        "pt": 68,
+        "ro": 1,
+        "so": 2,
+        "st": 1,
+        "sw": 3,
+        "tl": 1,
+        "tn": 9,
+        "xh": 2,
+        "xx": 257481,
+        "yo": 3
+      },
+      "assigned": 107277
+    }
+  },
+  "pending_unique_nlp": 0,
+  "pending_unique_topics": 0,
+  "state": "COMPLETADO_TECNICAMENTE",
+  "outputs": [
+    {
+      "file": "base_madre_lugares.csv",
+      "rows": 6538,
+      "bytes": 4402832,
+      "sha256": "f5134bb15dfd3dd5fa30a3eb12097ac99eb830d257bfdd2aeca4c48466cd8e94"
+    },
+    {
+      "file": "base_madre_resenas.csv",
+      "rows": 1143877,
+      "bytes": 1724145461,
+      "sha256": "7b10bf0aa9d3a466e872cbf18b7898506a2b7f29b3b1c4d492d4f0dc318ea7d7"
+    },
+    {
+      "file": "catalogo_dimensiones_latentes.csv",
+      "rows": 41,
+      "bytes": 16217,
+      "sha256": "4b417e4b8412015ae56c9915222054e81f2577b594ac821f61bde9339af6fc0b"
+    },
+    {
+      "file": "resena_dimension_latente.csv",
+      "rows": 233556,
+      "bytes": 21196880,
+      "sha256": "267fbb3a97c1724a86fc6d3648013aa0fef0a79382d9e6d282cd4b95f9a7d9a8"
+    },
+    {
+      "file": "cobertura_por_pais.csv",
+      "rows": 3,
+      "bytes": 387,
+      "sha256": "43ecac90d80432b8ceec5b7cc8b14b44871a1351d0aa23c62cddea0ad0f868a2"
+    },
+    {
+      "file": "distribucion_topicos_por_pais.csv",
+      "rows": 123,
+      "bytes": 6498,
+      "sha256": "583e55d4c1716a5113fcc8a4de9921c8eaf9956c605ea9650fdc4a6119594130"
+    }
+  ],
+  "human_validation": "PENDIENTE; no se rellenaron anotaciones humanas",
+  "baseline_topic_languages": [
+    "es",
+    "xx"
+  ],
+  "sentiment_languages": [
+    "ar",
+    "en",
+    "fr",
+    "de",
+    "hi",
+    "it",
+    "es",
+    "pt"
+  ],
+  "limitations": [
+    "No prueba precisión humana ni exhaustividad del scraping.",
+    "Tópicos es/xx: otros idiomas conservados sin forzar a los 41 tópicos.",
+    "xx significa incierto, no idioma soportado demostrado.",
+    "Peso 1 indica pertenencia, no probabilidad calibrada.",
+    "Nombres de los tópicos propuestos por IA, pendientes de revisión.",
+    "La mezcla de categorías y sesgo de reseñadores limita comparaciones de países."
+  ]
+}

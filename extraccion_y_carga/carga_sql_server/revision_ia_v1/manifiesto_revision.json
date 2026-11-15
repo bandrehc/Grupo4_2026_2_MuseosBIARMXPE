@@ -1,0 +1,22 @@
+{
+  "version_revision": "revision-ia-20261023-v1",
+  "version_modelo": "s-bert-8bcb6303e2dc",
+  "revisor": "Agente IA Codex",
+  "validacion_humana": false,
+  "autorizacion": "Usuario autorizó revisión por IA sin validación humana en esta conversación",
+  "semilla_muestreo": "revision-ia-20261023-v1| + hash_texto_nlp; SHA2_256 en SQL Server",
+  "muestreo": "Hasta 4 textos únicos por tópico y país. Sin exigir presencia de palabras clave. Menos de 4 cuando no hay más textos únicos.",
+  "exclusion_entrenamiento": "No verificada; no se afirma conjunto externo al entrenamiento ni prueba ciega independiente.",
+  "juicios": "C/P/N respecto a etiqueta ORIGINAL; las nuevas descripciones no se usan para inflar el puntaje.",
+  "muestras_topicos": 488,
+  "muestras_sentimiento": 54,
+  "topicos": 41,
+  "uso_habilitado": 22,
+  "uso_restringido": 19,
+  "archivos": {
+    "catalogo_curado.json": "700c70253d08ea9bb26901f588651d9080847c776ca4819d8d8b9a39e9a9f77b",
+    "evaluaciones_topicos.json": "0a22a19065e970c92456b728abc7403e16f99aa4b4e8e6eafb3eb221d0881693",
+    "evaluaciones_sentimiento.json": "f215b49a097ca8a33edc5892c80e7a1db7ae9c7de365bb8e81d60aca128e6dbe",
+    "contenido.py": "73d053b74e2aac4eb52cae5924dd08cec61672d848471accce08abb0b25b3649"
+  }
+}

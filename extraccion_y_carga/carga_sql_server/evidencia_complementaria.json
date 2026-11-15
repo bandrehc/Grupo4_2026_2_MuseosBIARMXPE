@@ -1,0 +1,72 @@
+{
+  "estado": "EJECUTADO_Y_VERIFICADO",
+  "reputacion_por_pais": [
+    {
+      "codigo_pais": "AR",
+      "observaciones": 2081,
+      "estrellas_no_null": 1863,
+      "conteos_no_null": 2057,
+      "suma_estrellas": "8321.3",
+      "suma_valoraciones": 2369889,
+      "min_estrellas": "1.0",
+      "max_estrellas": "5.0"
+    },
+    {
+      "codigo_pais": "MX",
+      "observaciones": 2701,
+      "estrellas_no_null": 2410,
+      "conteos_no_null": 2654,
+      "suma_estrellas": "10726.2",
+      "suma_valoraciones": 2749587,
+      "min_estrellas": "1.0",
+      "max_estrellas": "5.0"
+    },
+    {
+      "codigo_pais": "PE",
+      "observaciones": 1504,
+      "estrellas_no_null": 1160,
+      "conteos_no_null": 1448,
+      "suma_estrellas": "5045.5",
+      "suma_valoraciones": 760122,
+      "min_estrellas": "1.0",
+      "max_estrellas": "5.0"
+    }
+  ],
+  "incidencias": {
+    "RATING_AUSENTE": 945,
+    "HISTORIAL_AUTOR_INVALIDO": 24,
+    "CARACTER_REEMPLAZO_UNICODE": 14,
+    "FECHA_RELATIVA_AUSENTE": 945
+  },
+  "max_utf16": 4093,
+  "captions_con_LF_CR": 0,
+  "lotes_origen": {
+    "catalogo": 1,
+    "resena": 1144,
+    "puente": 234,
+    "lugar": 7
+  },
+  "archivos_bd": [
+    {
+      "base": "MuseosLatam_Origen",
+      "tipo": "LOG",
+      "mb": "648.000000"
+    },
+    {
+      "base": "MuseosLatam_Origen",
+      "tipo": "ROWS",
+      "mb": "4744.000000"
+    },
+    {
+      "base": "MuseosLatam_Datamart",
+      "tipo": "LOG",
+      "mb": "264.000000"
+    },
+    {
+      "base": "MuseosLatam_Datamart",
+      "tipo": "ROWS",
+      "mb": "968.000000"
+    }
+  ],
+  "espacio_libre_bytes": 124303732736
+}

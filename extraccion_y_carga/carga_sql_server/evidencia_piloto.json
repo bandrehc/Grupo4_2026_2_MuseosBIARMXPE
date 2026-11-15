@@ -1,0 +1,312 @@
+{
+  "estado": "EJECUTADO_Y_VERIFICADO",
+  "version": "latam-ampliacion-2026-10-22-v1",
+  "servidor": [
+    "<instancia local>",
+    "Microsoft SQL Server 2019 (RTM-GDR) (KB5128495) - 15.0.2200.2 (X64) \n\tSep 26 2026 20:12:55 \n\tCopyright (C) 2019 Microsoft Corporation\n\tDeveloper Edition (64-bit) on Windows 10 Home 10.0 <X64> (Build 19045: )\n",
+    "Developer Edition (64-bit)",
+    1
+  ],
+  "segundos": 10.70320200920105,
+  "primera": {
+    "conteos": {
+      "dim_antiguedad_resena": 5,
+      "dim_dimension_latente": 42,
+      "dim_extension_resena": 6,
+      "dim_geografia": 2197,
+      "dim_idioma": 2,
+      "dim_lugar": 6539,
+      "dim_perfil_autor": 5,
+      "dim_presencia_digital": 5,
+      "dim_rating": 6,
+      "dim_sentimiento": 3,
+      "dim_tiempo": 365,
+      "fact_reputacion_lugar": 6286,
+      "fact_resena": 12,
+      "fact_resena_dimension": 3
+    },
+    "pruebas": {
+      "resena_faltantes": 0,
+      "resena_sobrantes": 0,
+      "lugar_faltantes": 0,
+      "lugar_sobrantes": 0,
+      "catalogo_faltantes": 0,
+      "catalogo_sobrantes": 0,
+      "puente_faltantes": 0,
+      "puente_sobrantes": 0,
+      "reseñas_duplicadas": 0,
+      "geografia_inconsistente": 0,
+      "periodo_precision": 0,
+      "mes_trimestre_inventado": 0,
+      "coordenadas_fuera_rango": 0,
+      "reputacion_fecha_inventada": 0,
+      "peso_no_uno": 0,
+      "texto_hash_o_longitud_diferente": 0,
+      "presencia_inconsistente": 0,
+      "autor_ambiguo_inventado": 0,
+      "restricciones_no_confiables": 0,
+      "once_miembros_desconocidos": "OK",
+      "FK_CHECK_reales": "OK",
+      "campos_hecho_diferentes": 0,
+      "reputacion_medidas_diferentes": 0
+    },
+    "pais": [
+      {
+        "codigo_pais": "AR",
+        "resenas": 6,
+        "ratings_null": 1,
+        "suma_rating": 24,
+        "con_texto": 4,
+        "suma_palabras": 680,
+        "min_rating": 4,
+        "max_rating": 5
+      },
+      {
+        "codigo_pais": "MX",
+        "resenas": 4,
+        "ratings_null": 0,
+        "suma_rating": 17,
+        "con_texto": 3,
+        "suma_palabras": 270,
+        "min_rating": 2,
+        "max_rating": 5
+      },
+      {
+        "codigo_pais": "PE",
+        "resenas": 2,
+        "ratings_null": 0,
+        "suma_rating": 9,
+        "con_texto": 1,
+        "suma_palabras": 27,
+        "min_rating": 4,
+        "max_rating": 5
+      }
+    ],
+    "reputacion_esperada": 6286,
+    "origen": {
+      "catalogo": 41,
+      "lugar": 6538,
+      "puente": 3,
+      "resena": 12
+    },
+    "roundtrip": {
+      "lugar": {
+        "rows": 6538,
+        "sha256_campos_sql_y_csv": "90483f81ba13fb8386e671638f1d3f85d058502450b0d12686fb449bff57b62a",
+        "estado": "OK"
+      },
+      "resena": {
+        "rows": 12,
+        "sha256_campos_sql_y_csv": "ba4aa6ce041805dd37786372d5cc033a742b48b010efcebdbc510426ca68a647",
+        "estado": "OK"
+      },
+      "catalogo": {
+        "rows": 41,
+        "sha256_campos_sql_y_csv": "8ccfe1832fb4465b4e74528c69150251d8bbb7f83b626e5460c13a53071d5ac5",
+        "estado": "OK"
+      },
+      "puente": {
+        "rows": 3,
+        "sha256_campos_sql_y_csv": "d056f2a505fd0f4423ae4e5f1862fb8c5be14d7e66be43d358f39887d486e19a",
+        "estado": "OK"
+      }
+    },
+    "bases": [
+      "MuseosLatam_Origen_Piloto",
+      "MuseosLatam_Datamart_Piloto"
+    ],
+    "inicio_utc": "2026-10-23T06:24:17.749038+00:00",
+    "fin_utc": "2026-10-23T06:24:22.762990+00:00",
+    "antes": {
+      "dim_antiguedad_resena": 5,
+      "dim_dimension_latente": 42,
+      "dim_extension_resena": 6,
+      "dim_geografia": 2197,
+      "dim_idioma": 2,
+      "dim_lugar": 6539,
+      "dim_perfil_autor": 5,
+      "dim_presencia_digital": 5,
+      "dim_rating": 6,
+      "dim_sentimiento": 3,
+      "dim_tiempo": 365,
+      "fact_reputacion_lugar": 6286,
+      "fact_resena": 12,
+      "fact_resena_dimension": 3
+    },
+    "delta_desde_inicio": {
+      "dim_antiguedad_resena": 0,
+      "dim_dimension_latente": 0,
+      "dim_extension_resena": 0,
+      "dim_geografia": 0,
+      "dim_idioma": 0,
+      "dim_lugar": 0,
+      "dim_perfil_autor": 0,
+      "dim_presencia_digital": 0,
+      "dim_rating": 0,
+      "dim_sentimiento": 0,
+      "dim_tiempo": 0,
+      "fact_reputacion_lugar": 0,
+      "fact_resena": 0,
+      "fact_resena_dimension": 0
+    }
+  },
+  "segunda": {
+    "conteos": {
+      "dim_antiguedad_resena": 5,
+      "dim_dimension_latente": 42,
+      "dim_extension_resena": 6,
+      "dim_geografia": 2197,
+      "dim_idioma": 2,
+      "dim_lugar": 6539,
+      "dim_perfil_autor": 5,
+      "dim_presencia_digital": 5,
+      "dim_rating": 6,
+      "dim_sentimiento": 3,
+      "dim_tiempo": 365,
+      "fact_reputacion_lugar": 6286,
+      "fact_resena": 12,
+      "fact_resena_dimension": 3
+    },
+    "pruebas": {
+      "resena_faltantes": 0,
+      "resena_sobrantes": 0,
+      "lugar_faltantes": 0,
+      "lugar_sobrantes": 0,
+      "catalogo_faltantes": 0,
+      "catalogo_sobrantes": 0,
+      "puente_faltantes": 0,
+      "puente_sobrantes": 0,
+      "reseñas_duplicadas": 0,
+      "geografia_inconsistente": 0,
+      "periodo_precision": 0,
+      "mes_trimestre_inventado": 0,
+      "coordenadas_fuera_rango": 0,
+      "reputacion_fecha_inventada": 0,
+      "peso_no_uno": 0,
+      "texto_hash_o_longitud_diferente": 0,
+      "presencia_inconsistente": 0,
+      "autor_ambiguo_inventado": 0,
+      "restricciones_no_confiables": 0,
+      "once_miembros_desconocidos": "OK",
+      "FK_CHECK_reales": "OK",
+      "campos_hecho_diferentes": 0,
+      "reputacion_medidas_diferentes": 0
+    },
+    "pais": [
+      {
+        "codigo_pais": "AR",
+        "resenas": 6,
+        "ratings_null": 1,
+        "suma_rating": 24,
+        "con_texto": 4,
+        "suma_palabras": 680,
+        "min_rating": 4,
+        "max_rating": 5
+      },
+      {
+        "codigo_pais": "MX",
+        "resenas": 4,
+        "ratings_null": 0,
+        "suma_rating": 17,
+        "con_texto": 3,
+        "suma_palabras": 270,
+        "min_rating": 2,
+        "max_rating": 5
+      },
+      {
+        "codigo_pais": "PE",
+        "resenas": 2,
+        "ratings_null": 0,
+        "suma_rating": 9,
+        "con_texto": 1,
+        "suma_palabras": 27,
+        "min_rating": 4,
+        "max_rating": 5
+      }
+    ],
+    "reputacion_esperada": 6286,
+    "origen": {
+      "catalogo": 41,
+      "lugar": 6538,
+      "puente": 3,
+      "resena": 12
+    },
+    "roundtrip": {
+      "lugar": {
+        "rows": 6538,
+        "sha256_campos_sql_y_csv": "90483f81ba13fb8386e671638f1d3f85d058502450b0d12686fb449bff57b62a",
+        "estado": "OK"
+      },
+      "resena": {
+        "rows": 12,
+        "sha256_campos_sql_y_csv": "ba4aa6ce041805dd37786372d5cc033a742b48b010efcebdbc510426ca68a647",
+        "estado": "OK"
+      },
+      "catalogo": {
+        "rows": 41,
+        "sha256_campos_sql_y_csv": "8ccfe1832fb4465b4e74528c69150251d8bbb7f83b626e5460c13a53071d5ac5",
+        "estado": "OK"
+      },
+      "puente": {
+        "rows": 3,
+        "sha256_campos_sql_y_csv": "d056f2a505fd0f4423ae4e5f1862fb8c5be14d7e66be43d358f39887d486e19a",
+        "estado": "OK"
+      }
+    },
+    "roundtrip_reutilizado": "La primera pasada verificó todos los campos. Segunda pasada bajo el mismo lock exclusivo; repite controles SQL completos y concilia conteos reales.",
+    "bases": [
+      "MuseosLatam_Origen_Piloto",
+      "MuseosLatam_Datamart_Piloto"
+    ],
+    "inicio_utc": "2026-10-23T06:24:22.778620+00:00",
+    "fin_utc": "2026-10-23T06:24:26.295337+00:00",
+    "antes": {
+      "dim_antiguedad_resena": 5,
+      "dim_dimension_latente": 42,
+      "dim_extension_resena": 6,
+      "dim_geografia": 2197,
+      "dim_idioma": 2,
+      "dim_lugar": 6539,
+      "dim_perfil_autor": 5,
+      "dim_presencia_digital": 5,
+      "dim_rating": 6,
+      "dim_sentimiento": 3,
+      "dim_tiempo": 365,
+      "fact_reputacion_lugar": 6286,
+      "fact_resena": 12,
+      "fact_resena_dimension": 3
+    },
+    "delta_desde_inicio": {
+      "dim_antiguedad_resena": 0,
+      "dim_dimension_latente": 0,
+      "dim_extension_resena": 0,
+      "dim_geografia": 0,
+      "dim_idioma": 0,
+      "dim_lugar": 0,
+      "dim_perfil_autor": 0,
+      "dim_presencia_digital": 0,
+      "dim_rating": 0,
+      "dim_sentimiento": 0,
+      "dim_tiempo": 0,
+      "fact_reputacion_lugar": 0,
+      "fact_resena": 0,
+      "fact_resena_dimension": 0
+    }
+  },
+  "delta": {
+    "dim_antiguedad_resena": 0,
+    "dim_dimension_latente": 0,
+    "dim_extension_resena": 0,
+    "dim_geografia": 0,
+    "dim_idioma": 0,
+    "dim_lugar": 0,
+    "dim_perfil_autor": 0,
+    "dim_presencia_digital": 0,
+    "dim_rating": 0,
+    "dim_sentimiento": 0,
+    "dim_tiempo": 0,
+    "fact_reputacion_lugar": 0,
+    "fact_resena": 0,
+    "fact_resena_dimension": 0
+  }
+}
